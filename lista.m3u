@@ -29,7 +29,7 @@ http://45.160.15.130:2909/play/010
 #EXTINF:-1 tvg-id="Dos Kids" tvg-name="Dos Kids HD" tvg-logo="https://i.ibb.co/smvKnRM/1.png" group-title="Infantil",Dos Kids HD
 http://45.160.15.130:2909/play/002
 
-#EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Infantil",FMH Kids
+#EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="Infantil",FMH Kids
 http://45.160.15.130:2909/play/003
  
 
