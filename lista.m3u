@@ -9,25 +9,25 @@ http://45.160.15.130:2909/play/066
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD
 http://45.160.15.130:2909/play/064
 
-#EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
-http://45.160.15.130:2909/play/133
-
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD
-http://45.160.15.130:2909/play/063
-
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD
 http://45.160.15.130:2909/play/062
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
 http://45.160.15.130:2909/play/067
 
+#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD
+http://45.160.15.130:2909/play/063
+
+#EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
+http://45.160.15.130:2909/play/133
 
 
-#EXTINF:-1 tvg-id="Dos Kids" tvg-name="Dos Kids HD" tvg-logo="https://i.ibb.co/smvKnRM/1.png" group-title="Infantil",Dos Kids HD
-http://45.160.15.130:2909/play/002
 
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD
 http://45.160.15.130:2909/play/010
+
+#EXTINF:-1 tvg-id="Dos Kids" tvg-name="Dos Kids HD" tvg-logo="https://i.ibb.co/smvKnRM/1.png" group-title="Infantil",Dos Kids HD
+http://45.160.15.130:2909/play/002
 
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Infantil",FMH Kids
 http://45.160.15.130:2909/play/003
@@ -35,7 +35,29 @@ http://45.160.15.130:2909/play/003
 
 
 
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD
+http://45.160.15.130:2909/play/233
 
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 2
+http://45.160.15.130:2909/play/234
+
+#EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
+
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 3" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 3
+http://45.160.15.130:2909/play/235
+
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM
+http://45.160.15.130:2909/play/211
+
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN HD
+http://45.160.15.130:2909/play/212
+
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 HD
+http://45.160.15.130:2909/play/214
+
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 HD
+http://45.160.15.130:2909/play/216
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 HD
 http://45.160.15.130:2909/play/218
@@ -43,49 +65,30 @@ http://45.160.15.130:2909/play/218
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 7 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 HD
 http://45.160.15.130:2909/play/210
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 HD
-http://45.160.15.130:2909/play/216
-
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 HD
-http://45.160.15.130:2909/play/214
-
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN HD
-http://45.160.15.130:2909/play/212
-
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM
-http://45.160.15.130:2909/play/211
-
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 3" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 3
-http://45.160.15.130:2909/play/235
-
-#EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
-
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 2
-http://45.160.15.130:2909/play/234
-
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD
-http://45.160.15.130:2909/play/233
 
 
 
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD
+http://45.160.15.130:2909/play/098
 
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime
 http://177.126.51.9:8001/play/a048 
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD
-http://45.160.15.130:2909/play/018
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-title="Cine",HBO HD
 http://45.160.15.130:2909/play/017
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD
-http://45.160.15.130:2909/play/098
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD
+http://45.160.15.130:2909/play/018
+
+
 
 
 
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
 http://45.160.15.130:2909/play/171
+
+
 
