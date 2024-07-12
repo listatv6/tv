@@ -23,14 +23,31 @@ http://45.160.15.130:2909/play/133
 
 
 
+
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD
 http://45.160.15.130:2909/play/010
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",Cartoon Network HD
+http://45.160.15.130:2909/play/009
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://banner2.cleanpng.com/20180708/vjl/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d63e27b7.2224971315310939742546.jpg" group-title="Infantil",Discovery Kids
+http://45.160.15.130:2909/play/005
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior
+http://45.160.15.130:2909/play/006
+
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Infantil",ETC TV
+http://45.160.15.130:2909/play/007
 
 #EXTINF:-1 tvg-id="Dos Kids" tvg-name="Dos Kids HD" tvg-logo="https://i.ibb.co/smvKnRM/1.png" group-title="Infantil",Dos Kids HD
 http://45.160.15.130:2909/play/002
 
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="Infantil",FMH Kids
 http://45.160.15.130:2909/play/003
+
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/61/BABY_TV_HD.png" group-title="Infantil",BABY TV
+http://45.160.15.130:2909/play/004
  
 
 
