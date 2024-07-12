@@ -94,7 +94,6 @@ http://45.160.15.130:2909/play/210
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD
 http://45.160.15.130:2909/play/098
 
-
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime
 http://177.126.51.9:8001/play/a048 
 
@@ -167,8 +166,59 @@ http://45.160.15.130:2909/play/100
 
 
 
+
+
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
 http://45.160.15.130:2909/play/171
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD
+http://45.160.15.130:2909/play/024
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD
+http://45.160.15.130:2909/play/025
+
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD
+http://45.160.15.130:2909/play/027
+
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD
+http://45.160.15.130:2909/play/032
+
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretención",History 2 HD
+http://45.160.15.130:2909/play/033
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretención",TLC
+http://45.160.15.130:2909/play/172
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/1200px-E%21_Logo_2012.svg.png" group-title="Entretención",E!
+http://45.160.15.130:2909/play/174
+
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD
+http://45.160.15.130:2909/play/177
+
+#EXTINF:-1 tvg-id="Mundo & Sabor" tvg-name="Mundo & Sabor HD" tvg-logo="https://mundosabor.ar/wp-content/uploads/2020/10/logo_web_fondoblanco.png" group-title="Entretención",Mundo & Sabor HD
+http://45.160.15.130:2909/play/178
+
+#EXTINF:-1 tvg-id="Canal del Caballo" tvg-name="Canal del Caballo HD" tvg-logo="https://m.caballoyrodeo.cl/portal_rodeo/site/artic/20210125/imag/foto_0000000120210125110819.jpg" group-title="Entretención",Canal del Caballo HD
+http://45.160.15.130:2909/play/230
+
+#EXTINF:-1 tvg-id="On Tour Channel" tvg-name="On Tour Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" group-title="Entretención",On Tour Channel HD
+http://45.160.15.130:2909/play/179
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Entretención",Telemundo
+http://45.160.15.130:2909/play/149
+
+#EXTINF:-1 tvg-id="Pasiones HD" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="Entretención",Pasiones HD
+http://45.160.15.130:2909/play/150
+
+
+
+
+
+#EXTINF:-1 tvg-id="FE TV" tvg-name="FE TV" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2347664495.jpg" group-title="Religioso",FE TV
+http://45.160.15.130:2909/play/044
+
+#EXTINF:-1 tvg-id="Red de Fe" tvg-name="Red de Fe" tvg-logo="https://i.ibb.co/FWQc6Z3/images.jpg" group-title="Religioso",Red de Fe
+http://45.160.15.130:2909/play/043
 
 
 
