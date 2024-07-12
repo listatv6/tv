@@ -104,7 +104,65 @@ http://45.160.15.130:2909/play/017
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD
 http://45.160.15.130:2909/play/018
 
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="Cine",HBO Xtreme HD
+http://45.160.15.130:2909/play/020
 
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount HD" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="Cine",Paramount HD
+http://45.160.15.130:2909/play/099
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 HD
+http://45.160.15.130:2909/play/021
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Cine",Warner Channel HD
+http://45.160.15.130:2909/play/081
+
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine",Cinecanal HD
+http://45.160.15.130:2909/play/107
+
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD
+http://45.160.15.130:2909/play/119
+
+#EXTINF:-1 tvg-id="FMH Movies" tvg-name="FMH Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FHM.svg/1200px-FHM.svg.png" group-title="Cine",FMH Movies
+http://45.160.15.130:2909/play/083-2
+
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="https://i.pinimg.com/originals/ae/b8/3c/aeb83cf64500a32d907a4c9db30a91c1.png" group-title="Cine",Sony HD
+http://45.160.15.130:2909/play/085
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://w7.pngwing.com/pngs/109/114/png-transparent-tnt-logo-united-states-television-turner-broadcasting-system-united-states-television-text-logo.png" group-title="Cine",TNT HD
+http://45.160.15.130:2909/play/109
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine",TNT Series
+http://45.160.15.130:2909/play/108
+
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Cine",Golden
+http://45.160.15.130:2909/play/113
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Cine",AXN HD
+http://45.160.15.130:2909/play/087
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://e7.pngegg.com/pngimages/703/877/png-clipart-universal-s-universal-channel-television-channel-logo-channel-miscellaneous-purple-thumbnail.png" group-title="Cine",UNIVERSAL CHANNEL HD
+http://45.160.15.130:2909/play/088
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine",Cinemax HD
+http://45.160.15.130:2909/play/112
+
+#EXTINF:-1 tvg-id="MX Family HD" tvg-name="MX Family HD" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Cine",MX Family HD
+http://45.160.15.130:2909/play/120
+
+#EXTINF:-1 tvg-id="MX Prime HD" tvg-name="MX Prime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maxprime_logo.png/1200px-Maxprime_logo.png" group-title="Cine",MX Prime HD
+http://45.160.15.130:2909/play/122
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine",A&E HD
+http://45.160.15.130:2909/play/102
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" group-title="Cine",FX HD
+http://45.160.15.130:2909/play/093
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
+http://45.160.15.130:2909/play/110
+
+#EXTINF:-1 tvg-id="Rewind" tvg-name="Rewind" tvg-logo="https://c0.klipartz.com/pngpicture/587/970/gratis-png-iconos-de-computadora-simbolo-logo-rebobinado.png" group-title="Cine",Rewind
+http://45.160.15.130:2909/play/100
 
 
 
