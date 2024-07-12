@@ -33,6 +33,9 @@ http://45.160.15.130:2909/play/009
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://banner2.cleanpng.com/20180708/vjl/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d63e27b7.2224971315310939742546.jpg" group-title="Infantil",Discovery Kids
 http://45.160.15.130:2909/play/005
 
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick HD" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png" group-title="Infantil",Nick HD
+http://45.160.15.130:2909/play/014
+
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior
 http://45.160.15.130:2909/play/006
 
@@ -45,6 +48,8 @@ http://45.160.15.130:2909/play/002
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="Infantil",FMH Kids
 http://45.160.15.130:2909/play/003
 
+#EXTINF:-1 tvg-id="NTV HD" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logotipo_alternativo_de_NTV.png" group-title="Infantil",NTV HD
+http://45.160.15.130:2909/play/016
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/61/BABY_TV_HD.png" group-title="Infantil",BABY TV
 http://45.160.15.130:2909/play/004
