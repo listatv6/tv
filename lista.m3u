@@ -90,6 +90,15 @@ http://45.160.15.130:2909/play/218
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 7 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 HD
 http://45.160.15.130:2909/play/210
 
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »1«
+http://fastream.xyz:8080/963316995tv/h82ngdc/481
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »2«
+http://fastream.xyz:8080/963316995tv/h82ngdc/465
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »3«
+http://fastream.xyz:8080/963316995tv/h82ngdc/484
+
 
 
 
