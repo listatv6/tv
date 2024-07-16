@@ -15,9 +15,6 @@ http://45.160.15.130:2909/play/062
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
 http://45.160.15.130:2909/play/067
 
-#EXTINF:-1 tvg-id="13 Cultura " tvg-name="13 Cultura" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Cultura-en-vivo-Online.png" group-title="Chile",13 Cultura
-https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/2b83a2bd-c6bb-49a5-9c0f-322e55692986:SCL/variant/65728ae2b0f4bd85de84d63c8cfda3b4/bandwidth/1571982.m3u8
-
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD
 http://45.160.15.130:2909/play/063
 
@@ -223,8 +220,17 @@ http://45.160.15.130:2909/play/149
 http://45.160.15.130:2909/play/150
 
 
-#EXTINF:-1,24/7 Avatar La Leyenda de Aang (e)(720)
+
+
+
+#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://w7.pngwing.com/pngs/775/547/png-transparent-avatar-aang-illustration-aang-zuko-katara-firelord-ozai-azula-aang-fictional-character-cartoon-last-airbender-thumbnail.png" group-title="24/7",Avatar La Leyenda de Aang
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/38448
+
+
+
+
+
+
 
 
 
@@ -234,6 +240,7 @@ http://45.160.15.130:2909/play/044
 
 #EXTINF:-1 tvg-id="Red de Fe" tvg-name="Red de Fe" tvg-logo="https://i.ibb.co/FWQc6Z3/images.jpg" group-title="Religioso",Red de Fe
 http://45.160.15.130:2909/play/043
+
 
 
 
