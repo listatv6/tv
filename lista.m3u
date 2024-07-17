@@ -177,6 +177,40 @@ http://45.160.15.130:2909/play/100
 
 
 
+
+#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://seeklogo.com/images/B/bonanza-logo-823230C943-seeklogo.com.png" group-title="24/7 Retro",Bonanza
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37820
+
+#EXTINF:-1 tvg-id="Bruce Lee" tvg-name="Bruce Lee" tvg-logo="https://people.com/thmb/ce085GvhOcYr1t-H1SDMVLybBjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(942x0:944x2)/jackie-lee-1-17cdd6751d824199a8af493930d99abf.jpg" group-title="24/7 Retro",Bruce Lee
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37763
+
+#EXTINF:-1 tvg-id="Cantinflas" tvg-name="Cantinflas" tvg-logo="https://cantinflas.com/wp-content/uploads/2023/04/Cantinflas_logo.png" group-title="24/7 Retro",Cantinflas
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/49284
+
+#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://seeklogo.com/images/B/bonanza-logo-823230C943-seeklogo.com.png" group-title="24/7 Retro",Bonanza
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37820
+
+#EXTINF:-1 tvg-id="El Auto Fantastico" tvg-name="El Auto Fantastico" tvg-logo="https://gcdn.emol.cl/los-80/files/2017/11/el-auto-david_hasselhoff_k2000_kitt.jpg" group-title="24/7 Retro",El Auto Fantastico
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37806
+
+
+
+
+
+#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://w7.pngwing.com/pngs/775/547/png-transparent-avatar-aang-illustration-aang-zuko-katara-firelord-ozai-azula-aang-fictional-character-cartoon-last-airbender-thumbnail.png" group-title="24/7",Avatar La Leyenda de Aang
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/38448
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
 http://45.160.15.130:2909/play/171
 
@@ -223,8 +257,6 @@ http://45.160.15.130:2909/play/150
 
 
 
-#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://w7.pngwing.com/pngs/775/547/png-transparent-avatar-aang-illustration-aang-zuko-katara-firelord-ozai-azula-aang-fictional-character-cartoon-last-airbender-thumbnail.png" group-title="24/7",Avatar La Leyenda de Aang
-http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/38448
 
 
 
@@ -240,6 +272,10 @@ http://45.160.15.130:2909/play/044
 
 #EXTINF:-1 tvg-id="Red de Fe" tvg-name="Red de Fe" tvg-logo="https://i.ibb.co/FWQc6Z3/images.jpg" group-title="Religioso",Red de Fe
 http://45.160.15.130:2909/play/043
+
+#EXTINF:-1 tvg-id="Cristianas" tvg-name="Cristianas" tvg-logo="https://pbs.twimg.com/profile_images/1080198469430718470/jnKCZgTQ_400x400.jpg" group-title="Religioso",Cristianas
+http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/40280
+
 
 
 
