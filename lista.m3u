@@ -60,6 +60,9 @@ http://45.160.15.130:2909/play/004
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD
 http://45.160.15.130:2909/play/233
 
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD >2<
+http://45.181.122.13:8000/play/090
+
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 2" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 2
 http://45.160.15.130:2909/play/234
 
