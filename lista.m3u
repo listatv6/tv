@@ -161,6 +161,12 @@ http://fastream.xyz:8080/963316995tv/h82ngdc/484
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD
 http://45.160.15.130:2909/play/098
 
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >2fa<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/219
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >4fa<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >4fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/221
+
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime
 http://177.126.51.9:8001/play/a048 
 
@@ -169,6 +175,9 @@ http://45.181.122.13:8000/play/056
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="STAR CHANNEL HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Cine",STAR CHANNEL HD >2<
 http://45.181.122.13:8000/play/030
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="Cinema Familia" tvg-logo="https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg" group-title="Cine",Cinema Familia >fa< 
+http://fastream.xyz:8080/963316995tv/h82ngdc/236467
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-title="Cine",HBO HD
 http://45.160.15.130:2909/play/017
@@ -214,6 +223,9 @@ http://45.181.122.13:8000/play/027
 
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD
 http://45.160.15.130:2909/play/119
+
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD >2fa<" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/202
 
 #EXTINF:-1 tvg-id="FMH Movies" tvg-name="FMH Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FHM.svg/1200px-FHM.svg.png" group-title="Cine",FMH Movies
 http://45.160.15.130:2909/play/083-2
@@ -293,6 +305,9 @@ http://45.160.15.130:2909/play/100
 #EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://seeklogo.com/images/B/bonanza-logo-823230C943-seeklogo.com.png" group-title="24/7 Retro",Bonanza
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37820
 
+#EXTINF:-1 tvg-id="moises" tvg-name="Moises y los Diez Mandamientos >fa<" tvg-logo="http://offshore.lat:36995/images/284d810be0f787f9f27e3d57ed6c50ac.png" group-title="24/7 Retro",Moises y los Diez Mandamientos >fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/62389
+
 #EXTINF:-1 tvg-id="Bruce Lee" tvg-name="Bruce Lee" tvg-logo="https://people.com/thmb/ce085GvhOcYr1t-H1SDMVLybBjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(942x0:944x2)/jackie-lee-1-17cdd6751d824199a8af493930d99abf.jpg" group-title="24/7 Retro",Bruce Lee
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37763
 
@@ -328,6 +343,9 @@ http://45.181.122.13:8000/play/062
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD
 http://45.160.15.130:2909/play/024
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV >fa<" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/59435
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >2<" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
 http://45.181.122.13:8000/play/064
