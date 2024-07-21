@@ -72,22 +72,37 @@ http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports 3" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports 3
 http://45.160.15.130:2909/play/235
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile
+http://45.181.122.13:8000/play/100
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM
 http://45.160.15.130:2909/play/211
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE HD
+http://45.181.122.13:8000/play/092
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN HD
 http://45.160.15.130:2909/play/212
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE HD
+http://45.181.122.13:8000/play/094
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 HD
 http://45.160.15.130:2909/play/214
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE HD
+http://45.181.122.13:8000/play/096
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 HD
 http://45.160.15.130:2909/play/216
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE HD
+http://45.181.122.13:8000/play/098
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 HD
 http://45.160.15.130:2909/play/218
 
-#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN 7 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 HD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 HD
 http://45.160.15.130:2909/play/210
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »1«
@@ -190,9 +205,6 @@ http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37763
 #EXTINF:-1 tvg-id="Cantinflas" tvg-name="Cantinflas" tvg-logo="https://cantinflas.com/wp-content/uploads/2023/04/Cantinflas_logo.png" group-title="24/7 Retro",Cantinflas
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/49284
 
-#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://seeklogo.com/images/B/bonanza-logo-823230C943-seeklogo.com.png" group-title="24/7 Retro",Bonanza
-http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37820
-
 #EXTINF:-1 tvg-id="El Auto Fantastico" tvg-name="El Auto Fantastico" tvg-logo="https://gcdn.emol.cl/los-80/files/2017/11/el-auto-david_hasselhoff_k2000_kitt.jpg" group-title="24/7 Retro",El Auto Fantastico
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/37806
 
@@ -217,8 +229,14 @@ http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/38448
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
 http://45.160.15.130:2909/play/171
 
+#EXTINF:-1 tvg-id="Home&Health HD" tvg-name="Home&Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD
+http://45.181.122.13:8000/play/062
+
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD
 http://45.160.15.130:2909/play/024
+
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD
+http://45.181.122.13:8000/play/064
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD
 http://45.160.15.130:2909/play/025
@@ -278,6 +296,9 @@ http://45.160.15.130:2909/play/043
 
 #EXTINF:-1 tvg-id="Cristianas" tvg-name="Cristianas" tvg-logo="https://pbs.twimg.com/profile_images/1080198469430718470/jnKCZgTQ_400x400.jpg" group-title="Religioso",Cristianas
 http://zeuspro.xyz:8080/javiermayz1/8An6zmmSgC/40280
+
+
+
 
 
 
