@@ -344,17 +344,26 @@ http://45.181.122.13:8000/play/062
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD
 http://45.160.15.130:2909/play/024
 
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >2fa<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/407
+
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV >fa<" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >fa<
 http://fastream.xyz:8080/963316995tv/h82ngdc/59435
 
-#EXTINF:-1 tvg-id="Discovery Theater HD >2<" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
+#EXTINF:-1 tvg-id="Discovery Theater HD >2<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
 http://45.181.122.13:8000/play/064
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD
 http://45.160.15.130:2909/play/025
 
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/402
+
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD
 http://45.160.15.130:2909/play/027
+
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/442
 
 #EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD
 http://45.160.15.130:2909/play/032
