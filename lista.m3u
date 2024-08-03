@@ -59,9 +59,6 @@ http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/70
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/75
 
-#EXTINF:-1 tvg-id="T13" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="13 Kids" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
