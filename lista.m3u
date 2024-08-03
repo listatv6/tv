@@ -8,11 +8,17 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9919
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/43
 
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >3<
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >1<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >1<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9898
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >2<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/47
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >3<
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >1<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >1<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9932
@@ -26,11 +32,17 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9890
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >2<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/51
 
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >3<
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >1<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >1<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9915
 
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/55
+
+#EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >3<
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >1<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >1<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9930
@@ -38,11 +50,41 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9930
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/62
 
+#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >2<
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >1<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >1<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/70
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >2<
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/75
+
+#EXTINF:-1 tvg-id="T13" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13 Kids" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Chile",13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Entretencion" tvg-name="13 Entretencion" tvg-logo="https://cdn.m3u.cl/logo/979_13_Entretencion.png" group-title="Chile",13 Entretencion
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Prime" tvg-name="13 Prime" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Prime.png" group-title="Chile",13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Teleseries" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Chile",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Festival" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Chile",13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Humor" tvg-name="13 Humor" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Chile",13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-id="13 Realities" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Chile",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 
