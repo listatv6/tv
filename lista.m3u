@@ -88,6 +88,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="Gran Hermano" tvg-name="Gran Hermano" tvg-logo="https://media.pauta.cl/2023/08/Sin-titulo-8-1024x521-1.png" group-title="Gran Hermano CL",Gran Hermano Chile - CAM 1
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/246414
 
@@ -236,6 +237,80 @@ http://fastream.xyz:8080/963316995tv/h82ngdc/442
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >2<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9647
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="Alf (e)(SD)" tvg-logo="https://www.pngitem.com/pimgs/m/273-2735895_alf-hd-png-transparent-png.png" group-title="Series 24/7",Alf 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85755
+
+#EXTINF:-1 tvg-id="Anatomia de Grey (e)(720)" tvg-name="Anatomia de Grey (e)(720)" tvg-logo="https://p1.hiclipart.com/preview/660/373/263/tv-series-folders-pack-07-greys-anatomy-icon-png-icon.jpg" group-title="Series 24/7",Anatomia de Grey 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85759
+
+#EXTINF:-1 tvg-id="Bonanza" tvg-name="Bonanza" tvg-logo="https://seeklogo.com/images/B/bonanza-logo-823230C943-seeklogo.com.png" group-title="Series 24/7",Bonanza 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85777
+
+#EXTINF:-1 tvg-id="Breaking Bad" tvg-name="Breaking Bad " tvg-logo="https://w7.pngwing.com/pngs/920/608/png-transparent-walter-white-jesse-pinkman-sticker-crazy-handful-of-nothin-breaking-bad-season-2-breaking-bad-thumbnail.png" group-title="Series 24/7",Breaking Bad 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85778
+
+#EXTINF:-1 tvg-id="Chicago P.D" tvg-name="Chicago P.D " tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/88ef766ae40bfdd3b5e4bbb8ec595e9c47de60643a69435b229fd66c13de63c0.jpg" group-title="Series 24/7",Chicago P.D  24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85789
+
+#EXTINF:-1 tvg-id="Vampire Diaries" tvg-name="Vampire Diaries" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dd5aeb0dea74919938c1bb6688d9ca7819085b9aef5bccdc8baca4ba553c9c54.jpg" group-title="Series 24/7",Vampire Diaries 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85819
+
+#EXTINF:-1 tvg-id="Dr. House" tvg-name="Dr. House" tvg-logo="https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/WMXYGHZVBNDLBMLOQUQE7TCVZE.jpg" group-title="Series 24/7",Dr. House 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85828
+
+#EXTINF:-1 tvg-id="El Auto Fantastico" tvg-name="El Auto Fantastico" tvg-logo="https://i.ytimg.com/vi/FczdhIczCJM/hqdefault.jpg" group-title="Series 24/7",El Auto Fantastico 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85844
+
+#EXTINF:-1 tvg-id="El Buen Doctor" tvg-name="El Buen Doctor" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/66290e788f145810e68a9fd918c99b0746d203a5d1261ffda5946735e34eb17c.jpg" group-title="Series 24/7",El Buen Doctor 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85845
+
+#EXTINF:-1 tvg-id="" tvg-name="El hombre de los seis millones de dólares" tvg-logo="https://www.clarin.com/2021/03/15/3gvqmbVIq_720x0__1.jpg" group-title="Series 24/7",El hombre de los seis millones de dólares 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85850
+
+#EXTINF:-1 tvg-id="Flash" tvg-name="Flash" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/V4JSVD4VYVHZ5JDOXVYSOPW734.jpg" group-title="Series 24/7",Flash 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85871
+
+#EXTINF:-1 tvg-id="Friends" tvg-name="Friends" tvg-logo="https://lafrikileria.com/blog/wp-content/uploads/2022/09/serie-friends.jpg" group-title="Series 24/7",Friends 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85872
+
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/800px-Harry_Potter_wordmark.svg.png" group-title="Series 24/7",Harry Potter 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85882
+
+#EXTINF:-1 tvg-id="Juego de Tronos" tvg-name="Juego de Tronos " tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/7892f8cc-05bc-4b7b-88b2-d7cbd553537c_16-9-discover-aspect-ratio_default_0.jpg" group-title="Series 24/7",Juego de Tronos 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85901
+
+#EXTINF:-1 tvg-id="La Familia Ingalls" tvg-name="La Familia Ingalls " tvg-logo="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/07/06194002/Familia-Ingalls-4.jpg" group-title="Series 24/7",La Familia Ingalls 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85908
+
+#EXTINF:-1 tvg-id="Los Magnificos" tvg-name="Los Magnificos" tvg-logo="https://e.radio-grpp.io/large/2018/03/05/320932_573889.jpg" group-title="Series 24/7",Los Magnificos 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85934
+
+#EXTINF:-1 tvg-id="Lost" tvg-name="Lost" tvg-logo="https://altapeli.com/wp-content/uploads/2018/09/series-imitaciones-de-lost.jpg" group-title="Series 24/7",Lost 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85945
+
+#EXTINF:-1 tvg-id="Macgyver" tvg-name="Macgyver" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ce3c08847475abbaedf9986a0b803e50ad0aa74d01170faebee9550e007aea94.jpg" group-title="Series 24/7",Macgyver 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85948
+
+#EXTINF:-1 tvg-id="Mi Bella Genio" tvg-name="Mi Bella Genio" tvg-logo="https://elpopular.cronosmedia.glr.pe/original/2022/09/18/6327a4e5215048670104c1c8.jpg" group-title="Series 24/7",Mi Bella Genio 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85961
+
+#EXTINF:-1 tvg-id="Prison Break" tvg-name="Prison Break" tvg-logo="https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2015/08/07/_prisonbreak1_a4ee1380.jpg" group-title="Series 24/7",Prison Break 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85985
+
+#EXTINF:-1 tvg-id="Spartacus" tvg-name="Spartacus" tvg-logo="https://www.latercera.com/resizer/0hhXMZs006EtpmawVXJg_I_09mM=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/EHBGD7HWQRAERBOYXAVGKU7OE4.jpg" group-title="Series 24/7",Spartacus 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86004
+
+#EXTINF:-1 tvg-id="The Walking Dead " tvg-name="The Walking Dead " tvg-logo="https://i.blogs.es/e14d01/fprmxf5wqayrlzh/450_1000.jpeg" group-title="Series 24/7",The Walking Dead 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86022
 
 
 
