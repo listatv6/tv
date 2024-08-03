@@ -1,63 +1,33 @@
 #EXTM3U 
 
 
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >1<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9919
-
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/43
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >3<
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >1<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9898
+http://45.181.122.13:8000/play/009
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >2<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/47
+http://45.181.122.13:8000/play/011
 
-#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >3<
-https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
 
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >1<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9932
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/38
+http://45.181.122.13:8000/play/007
 
-#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >1<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9890
 
-#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >2<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/51
-
-#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >3<
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >1<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9915
 
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/55
+http://45.181.122.13:8000/play/005
 
-#EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >3<
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >1<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9930
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >2<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >2<
+http://45.181.122.13:8000/play/013
+
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/62
-
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >2<
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
-
-#EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >1<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >1<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/70
+http://45.181.122.13:8000/play/006
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >2<
-http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/75
+http://45.181.122.13:8000/play/088
+
 
 #EXTINF:-1 tvg-id="13 Kids" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -112,12 +82,38 @@ http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/246415
 
 
 
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD >2<
+http://45.181.122.13:8000/play/090
 
 
 
+#EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports
+http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
 
 
 
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile
+http://45.181.122.13:8000/play/100
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE HD
+http://45.181.122.13:8000/play/092
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE HD
+http://45.181.122.13:8000/play/094
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE HD
+http://45.181.122.13:8000/play/096
+
+
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE HD
+http://45.181.122.13:8000/play/098
 
 
 
@@ -126,6 +122,28 @@ http://fastream.xyz:8080/963316995tv/h82ngdc/465
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »3«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »3«
 http://fastream.xyz:8080/963316995tv/h82ngdc/484
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -168,8 +186,67 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/10612
 http://fastream.xyz:8080/963316995tv/h82ngdc/202
 
 
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD >2<" tvg-logo="https://w7.pngwing.com/pngs/109/114/png-transparent-tnt-logo-united-states-television-turner-broadcasting-system-united-states-television-text-logo.png" group-title="Cine",TNT HD >2<
+http://45.181.122.13:8000/play/038
+
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series >2<" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine",TNT Series >2<
+http://45.181.122.13:8000/play/039
+
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine",Cinemax HD >2<
+http://45.181.122.13:8000/play/028
+
+
+#EXTINF:-1 tvg-id="MX Family HD" tvg-name="MX Family HD >2<" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Cine",MX Family HD >2<
+http://45.181.122.13:8000/play/074
+
+
+#EXTINF:-1 tvg-id="MX Prime HD" tvg-name="MX Prime HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Maxprime_logo.png/1200px-Maxprime_logo.png" group-title="Cine",MX Prime HD >2<
+http://45.181.122.13:8000/play/080
+
+
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine",A&E HD >2< 
+http://45.181.122.13:8000/play/049
+
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD >2<" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" group-title="Cine",FX HD >2<
+http://45.181.122.13:8000/play/052
+
+
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM >2<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9740
+http://45.181.122.13:8000/play/050
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD >2<" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD >2<
+http://45.181.122.13:8000/play/021
+
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",Cartoon Network HD >2<
+http://45.181.122.13:8000/play/015
+
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids >2<" tvg-logo="https://banner2.cleanpng.com/20180708/vjl/kisspng-discovery-kids-television-channel-discovery-channe-zak-storm-5b42a3d63e27b7.2224971315310939742546.jpg" group-title="Infantil",Discovery Kids >2<
+http://45.181.122.13:8000/play/017
+
+
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick HD >2<" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png" group-title="Infantil",Nick HD >2<
+http://45.181.122.13:8000/play/019
+
+
+#EXTINF:-1 tvg-id="Disney Junior >2<" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior >2<
+http://45.181.122.13:8000/play/018
+
+
+ 
+ #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV >2<" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/61/BABY_TV_HD.png" group-title="Infantil",BABY TV >2<
+http://45.181.122.13:8000/play/020
 
 
 
@@ -199,44 +276,57 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9740
 
 
 
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >2<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9820
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >2<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >2<
+http://45.181.122.13:8000/play/062
 
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >2.1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9821
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD 
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9782
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >2fa<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >2fa<
+http://fastream.xyz:8080/963316995tv/h82ngdc/407
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9796
+
+
+#EXTINF:-1 tvg-id="Discovery Theater HD >2<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
+http://45.181.122.13:8000/play/064
+
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV 2
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9819
 
-#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9787
-
-#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2.1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9788
-
-#EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9790
-
-
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD >2fa<
 http://fastream.xyz:8080/963316995tv/h82ngdc/402
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >tv.pro<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD >2.1<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/10577
 
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD >2fa<
 http://fastream.xyz:8080/963316995tv/h82ngdc/442
 
 
+#EXTINF:-1 tvg-id="History Channel HD >2<" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD >2<
+http://45.181.122.13:8000/play/070
+
+
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretención",History 2 HD >2<
+http://45.181.122.13:8000/play/072
+
+
+
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >2<
-http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9647
+http://45.181.122.13:8000/play/066
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -377,6 +467,12 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86004
 #EXTINF:-1 tvg-id="The Walking Dead " tvg-name="The Walking Dead " tvg-logo="https://i.blogs.es/e14d01/fprmxf5wqayrlzh/450_1000.jpeg" group-title="Series 24/7",The Walking Dead 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86022
 
+
+
+
+
+#EXTINF:-1 tvg-id="FE TV" tvg-name="FE TV >2<" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2347664495.jpg" group-title="Religioso",FE TV >2<
+http://45.181.122.13:8000/play/025
 
 
 
