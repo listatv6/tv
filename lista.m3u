@@ -7,27 +7,20 @@ http://45.181.122.13:8000/play/009
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >2<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >2<
 http://45.181.122.13:8000/play/011
 
-
-
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >2<
 http://45.181.122.13:8000/play/007
-
-
 
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >2<
 http://45.181.122.13:8000/play/005
 
-
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >2<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >2<
 http://45.181.122.13:8000/play/013
-
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >2<
 http://45.181.122.13:8000/play/006
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina >2<
 http://45.181.122.13:8000/play/088
-
 
 #EXTINF:-1 tvg-id="13 Kids" tvg-name="13 Kids" tvg-logo="https://cdn.m3u.cl/logo/1421_13_Kids.png" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -85,37 +78,23 @@ http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/246415
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD >2<
 http://45.181.122.13:8000/play/090
 
-
-
 #EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
-
-
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile
 http://45.181.122.13:8000/play/100
 
-
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE HD
 http://45.181.122.13:8000/play/092
-
-
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE HD
 http://45.181.122.13:8000/play/094
 
-
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE HD
 http://45.181.122.13:8000/play/096
 
-
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE HD
 http://45.181.122.13:8000/play/098
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) »2«
 http://fastream.xyz:8080/963316995tv/h82ngdc/465
@@ -319,6 +298,14 @@ http://45.181.122.13:8000/play/066
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Animaniacs" tvg-name="Animaniacs" tvg-logo="https://seeklogo.com/images/A/animaniacs-logo-A86A4649A1-seeklogo.com.png" group-title="Infantil 24/7",Animaniacs 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85761
 
@@ -355,6 +342,12 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85823
 #EXTINF:-1 tvg-id="Ed, Edd y Eddy" tvg-name="Ed, Edd y Eddy" tvg-logo="https://e7.pngegg.com/pngimages/55/778/png-clipart-ed-edd-n-eddy-jawbreakers-television-show-cartoon-network-others-ed-edd-n-eddy-jawbreakers-television-show.png" group-title="Infantil 24/7",Ed, Edd y Eddy 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85843
 
+#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://e7.pngegg.com/pngimages/119/64/png-clipart-futurama-futurama.png" group-title="Infantil 24/7",Futurama 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85875
+
+#EXTINF:-1 tvg-id="Gravity Falls" tvg-name="Gravity Falls" tvg-logo="https://w7.pngwing.com/pngs/466/544/png-transparent-gravity-falls-dipper-pines-illustration-dipper-pines-phineas-flynn-mabel-pines-grunkle-stan-disney-channel-chainsaw-miscellaneous-hat-hand.png" group-title="Infantil 24/7",Gravity Falls 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85879
+
 #EXTINF:-1 tvg-id="Hora de Aventura" tvg-name="Hora de Aventura" tvg-logo="https://w7.pngwing.com/pngs/322/968/png-transparent-adventure-time-finn-and-jake-sitting-together-cartoons-adventure-time.png" group-title="Infantil 24/7",Hora de Aventura 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85890
 
@@ -379,6 +372,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85917
 #EXTINF:-1 tvg-id="Las Locuras del Emperador" tvg-name="Las Locuras del Emperador" tvg-logo="https://w7.pngwing.com/pngs/558/96/png-transparent-the-emperor-s-new-groove-kronk-yzma-kuzco-television-chanel-miscellaneous-chanel-vertebrate-thumbnail.png" group-title="Infantil 24/7",Las Locuras del Emperador 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85921
 
+#EXTINF:-1 tvg-id="Los Simpsons" tvg-name="Los Simpsons" tvg-logo="https://w7.pngwing.com/pngs/187/192/png-transparent-the-simpsons-homer-simpson-lisa-simpson-bart-simpson-marge-simpson-simpson-family-simpsons-television-heroes-springfield-thumbnail.png" group-title="Infantil 24/7",Los Simpsons 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85941
+
 #EXTINF:-1 tvg-id="Los Padrinos Magicos" tvg-name="Los Padrinos Magicos" tvg-logo="https://w7.pngwing.com/pngs/239/765/png-transparent-timmy-turner-twilight-sparkle-tiimmy-turner-mr-crocker-pocket-miscellaneous-hand-fictional-character.png" group-title="Infantil 24/7",Los Padrinos Magicos 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85936
 
@@ -397,8 +393,18 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85978
 #EXTINF:-1 tvg-id="Phineas y Ferb" tvg-name="Phineas y Ferb" tvg-logo="https://w7.pngwing.com/pngs/174/307/png-transparent-ferb-fletcher-phineas-flynn-candace-flynn-perry-the-platypus-sleepwear.png" group-title="Infantil 24/7",Phineas y Ferb 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85979
 
+#EXTINF:-1 tvg-id="Rick y Morty" tvg-name="Rick y Morty" tvg-logo="https://w7.pngwing.com/pngs/396/63/png-transparent-rick-morty-illustration-rick-sanchez-morty-smith-rick-and-morty-season-3-television-show-adult-swim-rick-and-morty-television-child-face-thumbnail.png" group-title="Infantil 24/7",Rick y Morty 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85987
+
 #EXTINF:-1 tvg-id="Un Show Mas" tvg-name="Un Show Mas" tvg-logo="https://e1.pngegg.com/pngimages/584/784/png-clipart-un-show-mas.png" group-title="Infantil 24/7",Un Show Mas 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86027
+
+
+
+
+
+
+
 
 
 
@@ -469,6 +475,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85836
 #EXTINF:-1 tvg-id="Fullmetal Alchemist" tvg-name="Fullmetal Alchemist" tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/fma2_d1sr.1280.jpg" group-title="Anime 24/7",Fullmetal Alchemist 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85874
 
+#EXTINF:-1 tvg-id="Hajime no Ippo" tvg-name="Hajime no Ippo" tvg-logo="https://w7.pngwing.com/pngs/587/433/png-transparent-ippo-makunouchi-genji-kamogawa-mamoru-takamura-ichiro-miyata-boxing-boxing-manga-fictional-character-sports.png" group-title="Anime 24/7",Hajime no Ippo 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85880
+
 #EXTINF:-1 tvg-id="Hunter x Hunter" tvg-name="Hunter x Hunter" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/2e54344c7cc1675af721b4021222230f.jpg" group-title="Anime 24/7",Hunter x Hunter 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85892
 
@@ -477,6 +486,31 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85968
 
 #EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto Shippuden" tvg-logo="https://st1.uvnimg.com/dims4/default/4d72d43/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9b%2F4b%2Fdb8df72a2f3c8d3d87a51b6c0233%2Ffrases-de-naruto.jpg" group-title="Anime 24/7",Naruto Shippuden 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85969
+
+#EXTINF:-1 tvg-id="Evangelion" tvg-name="Evangelion" tvg-logo="https://e7.pngegg.com/pngimages/482/802/png-clipart-neon-genesis-evangelion-shinji-ikari-a-cruel-angel-s-thesis-anime-anime-black-hair-manga.png" group-title="Anime 24/7",Evangelion 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85970
+
+#EXTINF:-1 tvg-id="Pokemon" tvg-name="Pokemon" tvg-logo="https://e7.pngegg.com/pngimages/476/159/png-clipart-pokemon-pikachu-pikachu-pokemon-games-pokemon-thumbnail.png" group-title="Anime 24/7",Pokemon 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85982
+
+#EXTINF:-1 tvg-id="Ranma ½" tvg-name="Ranma ½" tvg-logo="https://w7.pngwing.com/pngs/702/795/png-transparent-ranma-%C2%BD-hard-battle-inuyasha-anime-manga-ranma-1-2-friendship-boy-fictional-character.png" group-title="Anime 24/7",Ranma ½ 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85986
+
+#EXTINF:-1 tvg-id="Slam Dunk" tvg-name="Slam Dunk" tvg-logo="https://e7.pngegg.com/pngimages/1000/313/png-clipart-hanamichi-sakuragi-sakuragi-hanamichi-slam-dunk-basketball-rukawa-kaede-dunk-manga-illustrator-thumbnail.png" group-title="Anime 24/7",Slam Dunk 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86001
+
+#EXTINF:-1 tvg-id="Super Campeones" tvg-name="Super Campeones" tvg-logo="https://w7.pngwing.com/pngs/230/614/png-transparent-tsubasa-oozora-captain-tsubasa-tatakae-dream-team-anime-television-captain-tsubasa-television-manga-logo-thumbnail.png" group-title="Anime 24/7",Super Campeones 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86011
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -504,6 +538,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85778
 #EXTINF:-1 tvg-id="Chicago P.D" tvg-name="Chicago P.D " tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/88ef766ae40bfdd3b5e4bbb8ec595e9c47de60643a69435b229fd66c13de63c0.jpg" group-title="Series 24/7",Chicago P.D  24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85789
 
+#EXTINF:-1 tvg-id="Drake y Josh" tvg-name="Drake y Josh" tvg-logo="https://w7.pngwing.com/pngs/384/509/png-transparent-drake-josh-talent-showdown-josh-nichols-nickelodeon-theme-music-drake-miscellaneous-television-text.png" group-title="Series 24/7",Drake y Josh 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85838
+
 #EXTINF:-1 tvg-id="Vampire Diaries" tvg-name="Vampire Diaries" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dd5aeb0dea74919938c1bb6688d9ca7819085b9aef5bccdc8baca4ba553c9c54.jpg" group-title="Series 24/7",Vampire Diaries 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85819
 
@@ -519,6 +556,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85845
 #EXTINF:-1 tvg-id="" tvg-name="El hombre de los seis millones de dólares" tvg-logo="https://www.clarin.com/2021/03/15/3gvqmbVIq_720x0__1.jpg" group-title="Series 24/7",El hombre de los seis millones de dólares 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85850
 
+#EXTINF:-1 tvg-id="El Principe del Rap" tvg-name="El Principe del Rap" tvg-logo="https://w7.pngwing.com/pngs/534/1012/png-transparent-the-fresh-prince-of-bel-air-season-6-will-smith-actor-television-show-will-smith-celebrities-television-arm.png" group-title="Series 24/7",El Principe del Rap 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85853
+
 #EXTINF:-1 tvg-id="Flash" tvg-name="Flash" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/V4JSVD4VYVHZ5JDOXVYSOPW734.jpg" group-title="Series 24/7",Flash 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85871
 
@@ -527,6 +567,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85872
 
 #EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/800px-Harry_Potter_wordmark.svg.png" group-title="Series 24/7",Harry Potter 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85882
+
+#EXTINF:-1 tvg-id="iCarly" tvg-name="iCarly" tvg-logo="https://w7.pngwing.com/pngs/750/267/png-transparent-gibby-carly-shay-sam-puckett-icarly-television-show-icarly-friendship-public-relations-social-group-thumbnail.png" group-title="Series 24/7",iCarly 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85893
 
 #EXTINF:-1 tvg-id="Juego de Tronos" tvg-name="Juego de Tronos " tvg-logo="https://estaticos-cdn.prensaiberica.es/clip/7892f8cc-05bc-4b7b-88b2-d7cbd553537c_16-9-discover-aspect-ratio_default_0.jpg" group-title="Series 24/7",Juego de Tronos 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85901
@@ -543,6 +586,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85934
 #EXTINF:-1 tvg-id="Lost" tvg-name="Lost" tvg-logo="https://altapeli.com/wp-content/uploads/2018/09/series-imitaciones-de-lost.jpg" group-title="Series 24/7",Lost 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85945
 
+#EXTINF:-1 tvg-id="Malcolm in the Middle" tvg-name="Malcolm in the Middle" tvg-logo="https://i.ibb.co/d5VFZcp/thumb-1920-407425.png" group-title="Series 24/7",Malcolm in the Middle 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85777
+
 #EXTINF:-1 tvg-id="Macgyver" tvg-name="Macgyver" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/ce3c08847475abbaedf9986a0b803e50ad0aa74d01170faebee9550e007aea94.jpg" group-title="Series 24/7",Macgyver 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85948
 
@@ -554,6 +600,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85985
 
 #EXTINF:-1 tvg-id="Spartacus" tvg-name="Spartacus" tvg-logo="https://www.latercera.com/resizer/0hhXMZs006EtpmawVXJg_I_09mM=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/EHBGD7HWQRAERBOYXAVGKU7OE4.jpg" group-title="Series 24/7",Spartacus 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86004
+
+#EXTINF:-1 tvg-id="Sabrina la bruja adolescente" tvg-name="Sabrina la bruja adolescente" tvg-logo="https://e7.pngegg.com/pngimages/745/1005/png-clipart-melissa-joan-hart-sabrina-the-teenage-witch-sabrina-spellman-salem-saberhagen-zelda-spellman-bret-hart-celebrities-television-thumbnail.png" group-title="Series 24/7",Sabrina la bruja adolescente 24/7
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/85991
 
 #EXTINF:-1 tvg-id="The Walking Dead " tvg-name="The Walking Dead " tvg-logo="https://i.blogs.es/e14d01/fprmxf5wqayrlzh/450_1000.jpeg" group-title="Series 24/7",The Walking Dead 24/7
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/86022
