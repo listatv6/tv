@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile (estable)",MEGA HD
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile (estable)",MEGA 1 HD
 http://45.181.122.13:8000/play/009
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile (estable)",CHV HD 
