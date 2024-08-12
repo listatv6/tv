@@ -154,9 +154,6 @@ http://45.181.122.13:8000/play/090
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports HD 
 http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/86
 
-#EXTINF:-1 tvg-id="Estadio TNT" tvg-name="Estadio TNT Sports" tvg-logo="https://somoscelestes.cl/wp-content/uploads/2023/03/FB_IMG_1679268176238.jpg" group-title="Deportes Chile",Estadio TNT Sports >2<
-http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57154
-
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile 
 http://45.181.122.13:8000/play/100
 
@@ -201,10 +198,10 @@ http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/484
 
 
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >2fa<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >2fa<
-http://fastream.xyz:8080/963316995tv/h82ngdc/219
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >2fa<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >new<
+http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/54461
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >4fa<
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal HD >tv.pro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9734
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime >2<" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime >2<
@@ -234,8 +231,8 @@ http://45.181.122.13:8000/play/054
 #EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Cine",Cinecanal HD >2<
 http://45.181.122.13:8000/play/027
 
-#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD >2fa<" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD >2fa<
-http://fastream.xyz:8080/963316995tv/h82ngdc/202
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD >2fa<" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD >new<
+http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/54470
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD >2<" tvg-logo="https://w7.pngwing.com/pngs/109/114/png-transparent-tnt-logo-united-states-television-turner-broadcasting-system-united-states-television-text-logo.png" group-title="Cine",TNT HD >2<
 http://45.181.122.13:8000/play/038
@@ -321,16 +318,16 @@ http://45.181.122.13:8000/play/020
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >2<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >2<
 http://45.181.122.13:8000/play/062
 
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >2<
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9820
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >2fa<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >2fa<
-http://fastream.xyz:8080/963316995tv/h82ngdc/407
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >2fa<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >tvpro<
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9782
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >2<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
 http://45.181.122.13:8000/play/064
 
-#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >2<
+#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9787
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
@@ -339,11 +336,11 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9790
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV 2
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9819
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD >2fa<
-http://fastream.xyz:8080/963316995tv/h82ngdc/402
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD >tvpro<
+http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/10577
 
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD >2fa<
-http://fastream.xyz:8080/963316995tv/h82ngdc/442
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD >new<
+http://newultra.xyz:8080/93muwe35ce86fa35/52mawu67wedu98/54483
 
 #EXTINF:-1 tvg-id="History Channel HD >2<" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD >2<
 http://45.181.122.13:8000/play/070
@@ -354,7 +351,7 @@ http://45.181.122.13:8000/play/072
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >2<
 http://45.181.122.13:8000/play/066
 
-#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >2<
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9647
 
 
