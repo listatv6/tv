@@ -251,12 +251,21 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9855
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9820
 
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >col<
+http://190.90.18.161:15082/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >col<
+http://190.90.18.161:15082/play/a05n/index.m3u8
+
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD >tv.pro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9782
 
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9787
+
+#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >col<
+http://190.90.18.161:15082/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9790
@@ -275,6 +284,9 @@ http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9840
 
 #EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretención",History 2 HD >2<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9798
+
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >col<
+http://190.90.18.161:15082/play/a050/index.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
 http://tv.proyectox.vip:8080/javiermayz1/8An6zmmSgC/9647
