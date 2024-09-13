@@ -13,10 +13,10 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >2<
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tmJtQ8DHJvto1pTQ7RH-jq/m3u8
+http://ultrahd.live:2086/Marce/Zgm3CTbXG693/83999
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD >3<
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1ty6IOPCY_Mw584CEmJoJ3t/m3u8
+http://ultrahd.live:2086/Marce/Zgm3CTbXG693/83989
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >3<
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
@@ -32,6 +32,11 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
 http://canal-pro.xyz:8080/56954038270wspzero/200921zero/70
+
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",etc tv
+http://ultrahd.live:2086/Marce/Zgm3CTbXG693/83994
+
+
 
 
 
@@ -141,7 +146,7 @@ http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vGOIpPn9s
 
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal >tv.pro<
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1uaiVGoRjjV0hHPIxi36F1x/m3u8
+http://ultrahd.live:2086/Marce/Zgm3CTbXG693/115980
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime >2<" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime 
 http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1t6PgN0ekiYlWoxFR8d8AHg/m3u8
@@ -239,7 +244,7 @@ http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vKJ1N_Lve
 
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >tvpro<
-http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1tafrENTu11nljiSyVmxy8q/m3u8
+http://ultrahd.live:2086/Marce/Zgm3CTbXG693/115914
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >col<
 http://190.90.18.161:15082/play/a02l/index.m3u8
