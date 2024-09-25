@@ -277,7 +277,7 @@ http://200.113.4.75:7210/play/a01w/index.m3u8
 http://newultra.xyz:8080/JokJok/qETRahtG2x/54487
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD 
-http://190.102.246.93:9005/play/a00w
+http://200.113.4.75:7210/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >new< 
 http://newultra.xyz:8080/JokJok/qETRahtG2x/54486
@@ -309,7 +309,7 @@ http://newultra.xyz:8080/JokJok/qETRahtG2x/423
 http://newultra.xyz:8080/JokJok/qETRahtG2x/59435
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD 
-http://190.102.246.93:9005/play/a01h
+http://200.113.4.75:7210/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >new<
 http://newultra.xyz:8080/JokJok/qETRahtG2x/54485
