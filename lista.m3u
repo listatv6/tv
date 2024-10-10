@@ -2,13 +2,11 @@
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD
+http://190.102.246.93:9005/play/a014 
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >cl<
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -17,16 +15,16 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 http://190.102.246.93:9005/play/a02g
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
+http://190.102.246.93:9005/play/a00m
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD
 http://190.102.246.93:9005/play/a02f
 
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+http://190.102.246.93:9005/play/a02c
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+http://190.102.246.93:9005/play/a013
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
 http://canal-pro.xyz:8080/56954038270wspzero/200921zero/70
