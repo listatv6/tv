@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD
 http://190.102.246.93:9005/play/a014 
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >cl<
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >cl<
+http://45.181.122.201:8081/play/a06x
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD
 http://190.102.246.93:9005/play/a02g
@@ -27,10 +27,10 @@ http://190.102.246.93:9005/play/a02c
 http://190.102.246.93:9005/play/a013
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
-https://www.youtube.com/watch?v=JzpqeWBOzsc&list=PLJkfjdPfx6-Gnj-Ze_5WuBniB2V-_jJC0
+http://45.181.122.201:8081/play/a04e
 
 #EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",etc tv
-http://newultra.xyz:8080/JokJok/qETRahtG2x/65
+
 
 
 
@@ -84,7 +84,7 @@ http://newultra.xyz:8080/JokJok/qETRahtG2x/65
 http://190.102.246.93:9005/play/a025
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports (2) HD 
-http://158.69.52.98:25461/USUARIO129/ZONA/77
+http://45.181.122.201:8081/play/a00a
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile 
 http://190.102.246.93:9005/play/a00x
@@ -139,7 +139,7 @@ http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1vGOIpPn9s
 http://190.102.246.93:9005/play/a01e
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54461
+http://45.181.122.201:8081/play/a01u
 
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime >2<" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime 
 http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1t6PgN0ekiYlWoxFR8d8AHg/m3u8
@@ -256,22 +256,22 @@ http://190.102.246.93:9005/play/a03c
 http://190.102.246.93:9005/play/a01l
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/411
+http://45.181.122.201:8081/play/a072
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD 
 http://190.102.246.93:9005/play/a00w
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >new< 
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54486
+http://45.181.122.201:8081/play/a07v
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >col<
 http://190.102.246.93:9005/play/a03b
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54498
+http://45.181.122.201:8081/play/a06f
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54490
+http://45.181.122.201:8081/play/a085
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD 
 http://190.102.246.93:9005/play/a01m
@@ -279,11 +279,14 @@ http://190.102.246.93:9005/play/a01m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network
 http://190.102.246.93:9005/play/a03a
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network (2)
+http://45.181.122.201:8081/play/a02a
+
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
 http://190.102.246.93:9005/play/a016
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/423
+http://45.181.122.201:8081/play/a080
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >new<
 http://newultra.xyz:8080/JokJok/qETRahtG2x/59435
@@ -292,13 +295,13 @@ http://newultra.xyz:8080/JokJok/qETRahtG2x/59435
 http://190.102.246.93:9005/play/a01h
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54485
+http://45.181.122.201:8081/play/a01z
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD 
 http://190.102.246.93:9005/play/a015
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/54483
+http://45.181.122.201:8081/play/a01l
 
 
 #EXTINF:-1 tvg-id="History Channel HD >2<" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD 
