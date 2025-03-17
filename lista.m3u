@@ -9,7 +9,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 http://190.102.246.93:9005/play/a014 
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1200px-Mega_Chile_2020.png" group-title="Chile",MEGA HD >cl<
-http://45.181.122.201:8081/play/a06x
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png" group-title="Chile",CHV HD
 http://190.102.246.93:9005/play/a02g
@@ -256,22 +256,22 @@ http://190.102.246.93:9005/play/a03c
 http://190.102.246.93:9005/play/a01l
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >new<
-http://45.181.122.201:8081/play/a072
+
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD 
 http://190.102.246.93:9005/play/a00w
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >new< 
-http://45.181.122.201:8081/play/a07v
 
-#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >col<
+
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD 
 http://190.102.246.93:9005/play/a03b
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
-http://45.181.122.201:8081/play/a06f
+
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >new<
-http://45.181.122.201:8081/play/a085
+
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD 
 http://190.102.246.93:9005/play/a01m
@@ -280,35 +280,35 @@ http://190.102.246.93:9005/play/a01m
 http://190.102.246.93:9005/play/a03a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network (2)
-http://45.181.122.201:8081/play/a02a
+
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
 http://190.102.246.93:9005/play/a016
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >new<
-http://45.181.122.201:8081/play/a080
+
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >new<
 http://newultra.xyz:8080/JokJok/qETRahtG2x/59435
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD 
-http://190.102.246.93:9005/play/a01h
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1165066
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >new<
-http://45.181.122.201:8081/play/a01z
+
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD 
-http://190.102.246.93:9005/play/a015
+
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo >new<
-http://45.181.122.201:8081/play/a01l
+
 
 
 #EXTINF:-1 tvg-id="History Channel HD >2<" tvg-name="History Channel HD" tvg-logo="https://w7.pngwing.com/pngs/222/434/png-transparent-history-television-channel-logo-television-show-story-miscellaneous-television-text.png" group-title="Entretención",History Channel HD 
-http://190.102.246.93:9005/play/a01z
+
 
 #EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretención",History 2 HD 
-http://190.102.246.93:9005/play/a00y
+
 
 
 
@@ -495,11 +495,18 @@ https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/119339
 #EXTINF:-1 tvg-id="" tvg-name="Cake Boss" tvg-logo="https://www.dvdland.com.au/product_images/c/914/cakeboss__48678_zoom.jpg" group-title="Series 24/7",Cake Boss 24/7
 http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1654719
 
+#EXTINF:-1 tvg-id="" tvg-name="Comisario Rex" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5Y2EyNmEtNThlZS00NTFkLWI0MzktOTUwNTg2NTI2MjRhXkEyXkFqcGc@._V1_.jpg" group-title="Series 24/7",Comisario Rex 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1927130
+
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="COMO DICE EL DICHO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-como-dice-el-dicho.png" group-title="Series 24/7",COMO DICE EL DICHO (2) 24/7
 https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/140891
 
-#EXTINF:-1 tvg-id="" tvg-name="Hasta que el Dinero nos Separe" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFkMjFiMDUtYjVkNC00ZGJlLThmZmMtZGE2Nzc3YjhmZmM1XkEyXkFqcGc@._V1_.jpg" group-title="Series 24/7",Hasta que el Dinero nos Separe 24/7
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1763227
+#EXTINF:-1 tvg-id="" tvg-name="Navidad 1" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 1 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1823871
+
+#EXTINF:-1 tvg-id="" tvg-name="Navidad 2" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 2 24/7
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1823874
+
 
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA ROSA DE GUADALUPE" tvg-logo="https://media.pagina7.cl/2020/04/LA-ROSA-DE-GUADALUPE-480X480-730x337.png" group-title="Series 24/7",LA ROSA DE GUADALUPE 24/7
 http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1625695
