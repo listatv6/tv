@@ -216,6 +216,9 @@ http://190.102.246.93:9005/play/a01k
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nick HD >2<" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png" group-title="Infantil",Nick HD 
 http://190.102.246.93:9005/play/a02b
 
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantil",Nick JR HD 
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23530
+
 #EXTINF:-1 tvg-id="Disney Junior >2<" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior 
 http://daleplay.club:80/play/6G7XjFWdjAvFnFMDS8iyfWeNx5cxw4zcYurj6kFLo1s148Jtjs52r8vWJhwLjSbH/m3u8
 
@@ -252,17 +255,17 @@ http://190.102.246.93:9005/play/a03c
 
 
 
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >1<
 http://190.102.246.93:9005/play/a01l
 
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health HD >new<
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >2< 
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23533
 
-
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel HD 
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >1< 
 http://190.102.246.93:9005/play/a00w
 
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >new< 
-
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >2< 
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23534
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD 
 http://190.102.246.93:9005/play/a03b
@@ -270,11 +273,11 @@ http://190.102.246.93:9005/play/a03b
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
 
 
-#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD >new<
-
-
-#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater HD 
+#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >1<
 http://190.102.246.93:9005/play/a01m
+
+#EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >2< 
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23545
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network
 http://190.102.246.93:9005/play/a03a
@@ -282,23 +285,23 @@ http://190.102.246.93:9005/play/a03a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network (2)
 
 
-#EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World 
+#EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >1<
 http://190.102.246.93:9005/play/a016
 
-#EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >new<
-
+#EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >2<
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23544
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >new<
-http://newultra.xyz:8080/JokJok/qETRahtG2x/59435
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet HD 
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >1<
 http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/1165066
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >new<
-
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >2<
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23503
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD 
-
+http://moonstalker.xyz:8080/elmatatan/5oIpJXWr5h/23536
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo >new<
 
