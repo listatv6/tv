@@ -169,22 +169,22 @@ http://200.113.4.75:7210/play/a02k/index.m3u8
 http://190.102.246.93:9005/play/a01a
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD >2<" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD 
-http://190.102.246.93:9005/play/a00z
+http://190.102.246.93:9005/play/a01g
 
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD >2<" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="Cine",HBO Xtreme HD 
 http://190.102.246.93:9005/play/a010
 
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount HD >2<" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="Cine",Paramount HD 
-http://190.102.246.93:9005/play/a01d
+http://45.232.210.1:8029/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 HD 
-http://190.102.246.93:9005/play/a01g
+http://200.113.4.75:7210/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD >2fa<" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD 
 http://190.102.246.93:9005/play/a024
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD >2<" tvg-logo="https://w7.pngwing.com/pngs/109/114/png-transparent-tnt-logo-united-states-television-turner-broadcasting-system-united-states-television-text-logo.png" group-title="Cine",TNT HD 
-http://190.102.246.93:9005/play/a02k
+http://45.232.210.1:8029/play/a06w/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series >2<" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine",TNT Series 
 http://190.102.246.93:9005/play/a01u
@@ -193,16 +193,16 @@ http://190.102.246.93:9005/play/a01u
 http://190.102.246.93:9005/play/a02q
 
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine",A&E HD  
-http://190.102.246.93:9005/play/a020
+http://45.232.210.1:8029/play/aehd/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD >2<" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" group-title="Cine",FX HD 
 http://190.102.246.93:9005/play/a01v
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.pngfind.com/pngs/m/408-4089216_amc-channel-logo-transparent-hd-png-download.png" group-title="Cine",AMC HD 
-http://190.102.246.93:9005/play/a018
+http://45.232.210.1:8029/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/11/clover-network-inc-vector-logo.png" group-title="Cine",Clover Channel HD 
-http://190.102.246.93:9005/play/a028
+
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
 http://190.102.246.93:9005/play/a03p
