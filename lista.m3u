@@ -165,7 +165,7 @@ http://45.232.210.1:8029/play/studiouniversalhd/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime >2<" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime 
 http://200.113.4.75:7210/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD >2<" tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-title="Cine",HBO HD 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD >2<" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="Cine",HBO HD 
 http://190.102.246.93:9005/play/a01a
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD >2<" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/hbo-family-logo-black-and-white.png" group-title="Cine",HBO Family HD 
@@ -174,10 +174,10 @@ http://190.102.246.93:9005/play/a01g
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme HD >2<" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="Cine",HBO Xtreme HD 
 http://190.102.246.93:9005/play/a010
 
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount HD >2<" tvg-logo="https://seeklogo.com/images/P/paramount-logo-D0604AF7D3-seeklogo.com.png" group-title="Cine",Paramount HD 
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount HD >2<" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="Cine",Paramount HD 
 http://45.232.210.1:8029/play/a05j/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Cine",HBO 2 HD 
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD >2<" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="Cine",HBO 2 HD 
 http://200.113.4.75:7210/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD >2fa<" tvg-logo="https://e7.pngegg.com/pngimages/16/901/png-clipart-space-logo-television-channel-esporte-interativo-space-television-text.png" group-title="Cine",Space HD 
@@ -189,10 +189,10 @@ http://45.232.210.1:8029/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series >2<" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo.png" group-title="Cine",TNT Series 
 http://190.102.246.93:9005/play/a01u
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Cine",Cinemax HD 
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD >2<" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Cine",Cinemax HD 
 http://190.102.246.93:9005/play/a02q
 
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" group-title="Cine",A&E HD  
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD >2<" tvg-logo="https://download.logo.wine/logo/A%26E_(Australian_TV_channel)/A%26E_(Australian_TV_channel)-Logo.wine.png" group-title="Cine",A&E HD  
 http://45.232.210.1:8029/play/aehd/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX HD >2<" tvg-logo="https://www.pngkey.com/png/detail/302-3027373_fx-hd-logo-fx-hd-channel-logo.png" group-title="Cine",FX HD 
@@ -204,10 +204,10 @@ http://45.232.210.1:8029/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/11/clover-network-inc-vector-logo.png" group-title="Cine",Clover Channel HD 
 
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine",TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM >2<" tvg-logo="https://www.totalmedios.com/img/noticias/2015/10/5630b70c44de9__838x390.jpg" group-title="Cine",TCM
 http://190.102.246.93:9005/play/a03p
 
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Cine",Warner Channel HD
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://e7.pngegg.com/pngimages/981/136/png-clipart-warner-bros-logo-wordmark-mgm-logo-television-text-thumbnail.png" group-title="Cine",Warner Channel HD
 http://190.102.246.93:9005/play/a022
 
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="https://i.pinimg.com/originals/ae/b8/3c/aeb83cf64500a32d907a4c9db30a91c1.png" group-title="Cine",Sony HD
