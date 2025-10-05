@@ -40,10 +40,10 @@ http://45.232.210.1:8029/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >Opc 2<
 http://45.232.210.1:8029/play/laredhd/index.m3u8
 
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD
+#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://iili.io/KXrpjp4.th.png" group-title="Chile",TV+ HD
 http://45.232.210.1:8029/play/a009/index.m3u8
 
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="Chile",TV+ HD >Opc 2<
+#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://iili.io/KXrpjp4.th.png" group-title="Chile",TV+ HD >Opc 2<
 http://190.102.246.93:9005/play/a013
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TVMas2" tvg-logo="https://iili.io/KXgAR6u.th.png" group-title="Chile",TVMAS2
