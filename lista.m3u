@@ -241,7 +241,7 @@ http://190.102.246.93:9005/play/a02b
 http://200.113.4.75:7210/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantil",Nick JR HD 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1324913
+
 
 
 #EXTINF:-1 tvg-id="Disney Junior >2<" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior 
@@ -279,54 +279,53 @@ http://190.102.246.93:9005/play/a03c
 
 
 
+#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >2< 
+http://45.232.210.1:8029/play/a0al/index.m3u8
 
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >1<
 http://200.113.4.75:7210/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >2< 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1595649
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >1< 
 http://190.102.246.93:9005/play/a00w
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >2< 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/81882
+http://45.232.210.1:8029/play/a0e1/index.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD 
 http://190.102.246.93:9005/play/a03b
 
-#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >tvpro<
-
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="Entretención",El Gourmet HD >2<
+http://45.232.210.1:8029/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >1<
 http://190.102.246.93:9005/play/a01m
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >2< 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/81886
+http://45.232.210.1:8029/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network
 http://190.102.246.93:9005/play/a03a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entretención",Food Network (2)
-
+http://45.232.210.1:8029/play/foodnetworkhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >1<
 http://190.102.246.93:9005/play/a016
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >2<
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/81883
+http://45.232.210.1:8029/play/a05b/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV >new<
-
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV
+http://45.232.210.1:8029/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >1<
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/103553
+http://45.232.210.1:8029/play/animalplanethd/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >2<
 
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo HD 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1203429
+http://45.232.210.1:8029/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Entretención",Nat Geo >new<
 
