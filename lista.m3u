@@ -121,19 +121,19 @@ http://190.102.246.93:9005/play/a026
 http://190.102.246.93:9005/play/a02l
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE 
-
+http://45.232.210.1:8029/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 5 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 5 CHILE 
 http://190.102.246.93:9005/play/a01q
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 6 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 6 CHILE 
-
+http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
 http://190.102.246.93:9005/play/a01r
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) 
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1194934
+
 
 
 
