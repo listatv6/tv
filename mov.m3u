@@ -1,1 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="*DSPORTS 1 | VE ᴴᴰ" tvg-logo="https://i.imgur.com/TVYUiyX.png" group-title="⭐⚽DIRECTV SPORTS⚽⭐",*DSPORTS 1 | VE ᴴᴰ
+https://nxt.plus:8443/nicolaspalma/21062024$/269261.ts
 
+#EXTINF:-1 tvg-name="Detective Knight: Independencia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1168a2gKGWYSfiCkWtz4oDl5rJP.jpg" group-title="VOD",Detective Knight: Independencia (2023)
+https://nxt.plus:8443/movie/nicolaspalma/21062024$/118603.mkv
