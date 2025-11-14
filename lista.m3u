@@ -26,13 +26,13 @@ http://45.232.210.1:8029/play/a001/index.m3u8
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 3<
-https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD
-http://45.232.210.1:8029/play/a00e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >Opc 2<
 http://45.232.210.1:8029/play/a06r/index.m3u8
@@ -106,7 +106,7 @@ http://200.113.4.75:7210/play/a01i/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Premium 
-http://190.102.246.93:9005/play/a025
+
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports (2) HD 
 http://45.232.210.1:8029/play/cdfhd/index.m3u8
@@ -115,31 +115,31 @@ http://45.232.210.1:8029/play/cdfhd/index.m3u8
 http://45.232.210.1:8029/play/a07k/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile >opc 2<
-http://190.102.246.93:9005/play/a00x
+
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE 
-http://190.102.246.93:9005/play/a01w
+
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE >op2<
 http://45.232.210.1:8029/play/a06j/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE 
-http://190.102.246.93:9005/play/a026
+http://45.232.210.1:8029/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE 
-http://190.102.246.93:9005/play/a02l
+http://45.232.210.1:8029/play/espn3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE 
 http://45.232.210.1:8029/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 5 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 5 CHILE 
-http://190.102.246.93:9005/play/a01q
+http://45.232.210.1:8029/play/a0i9/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 6 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 6 CHILE 
 http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
-http://190.102.246.93:9005/play/a01r
+http://45.232.210.1:8029/play/a0at/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DEP• DIRECTV SPORTS CL (HD) 
 
@@ -507,7 +507,7 @@ http://tv.proyectox.vip:8080/hugophalcorp/w2b5hD4uUX/94906
 http://tv.proyectox.vip:8080/hugophalcorp/w2b5hD4uUX/94888
 
 #EXTINF:-1 tvg-id="Slam Dunk" tvg-name="Slam Dunk" tvg-logo="https://e7.pngegg.com/pngimages/1000/313/png-clipart-hanamichi-sakuragi-sakuragi-hanamichi-slam-dunk-basketball-rukawa-kaede-dunk-manga-illustrator-thumbnail.png" group-title="Anime 24/7",Slam Dunk 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/119339
+
 
 
 
