@@ -156,7 +156,7 @@ http://45.232.210.1:8029/play/a0e4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JESSIE" tvg-logo="https://static.wikia.nocookie.net/disney/images/0/00/Jessie_logo.png" group-title="Infantil 24/7",JESSIE 24/7
 #EXTINF:-1 tvg-id="Futurama" tvg-name="DON GATO Y SU PANDILLA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-don-gato.png" group-title="Infantil 24/7",DON GATO Y SU PANDILLA 24/7
 #EXTINF:-1 tvg-id="Malcolm in the Middle" tvg-name="Malcolm in the Middle" tvg-logo="https://i.ibb.co/d5VFZcp/thumb-1920-407425.png" group-title="Infantil 24/7",Malcolm in the Middle 24/7
-#EXTINF:-1 tvg-id="Los Padrinos Magicos" tvg-name="Los Padrinos Magicos" tvg-logo="https://w7.pngwing.com/pngs/239/765/png-transparent-timmy-turner-twilight-sparkle-tiimmy-turner-mr-crocker-pocket-miscellaneous-hand-fictional-character.png" group-title="Infantil 24/7",Los Padrinos Magicos 24/7
+#EXTINF:-1 tvg-id="Los Padrinos Magicos" tvg-name="Los Padrinos Magicos" tvg-logo="https://w7.pngwing.com/pngs/239/765/png-transparent-timmy-turner-twilight-sparkle-tiimmy-turner-mr-crocker-pocket-miscellaneous-hand-fictional-character.png" group-title="",Los Padrinos Magicos 24/7
 
 
 ----------------------------------------------ANIME24/7-----------------------------------------------------------------------------
@@ -211,53 +211,27 @@ http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94906
 http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94888
 #EXTINF:-1 tvg-id="Slam Dunk" tvg-name="Slam Dunk" tvg-logo="https://e7.pngegg.com/pngimages/1000/313/png-clipart-hanamichi-sakuragi-sakuragi-hanamichi-slam-dunk-basketball-rukawa-kaede-dunk-manga-illustrator-thumbnail.png" group-title="Anime 24/7",Slam Dunk 24/7
 -------------------------------------------Series24/7--------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Cake Boss" tvg-logo="https://www.dvdland.com.au/product_images/c/914/cakeboss__48678_zoom.jpg" group-title="Series 24/7",Cake Boss 24/7
-moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1654719
-
+#EXTINF:-1 tvg-id="" tvg-name="Cake Boss" tvg-logo="" group-title="Series 24/7",Los años maravillosos
+http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96782
 #EXTINF:-1 tvg-id="" tvg-name="Comisario Rex" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5Y2EyNmEtNThlZS00NTFkLWI0MzktOTUwNTg2NTI2MjRhXkEyXkFqcGc@._V1_.jpg" group-title="Series 24/7",Comisario Rex 24/7
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1927130
-
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="COMO DICE EL DICHO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-como-dice-el-dicho.png" group-title="Series 24/7",COMO DICE EL DICHO (2) 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/140891
-
 #EXTINF:-1 tvg-id="" tvg-name="Navidad 1" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 1 24/7
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1823871
-
 #EXTINF:-1 tvg-id="" tvg-name="Navidad 2" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 2 24/7
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1823874
-
-
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA ROSA DE GUADALUPE" tvg-logo="https://media.pagina7.cl/2020/04/LA-ROSA-DE-GUADALUPE-480X480-730x337.png" group-title="Series 24/7",LA ROSA DE GUADALUPE 24/7
-http://moonstalker.xyz:8080/Vecinodemirella2020/9eieutaGVy/1625695
-
-
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="SÁBADO GIGANTE" tvg-logo="https://i.ibb.co/q5qFbk8/sabado-gigante1.png" group-title="Series 24/7",SÁBADO GIGANTE 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/227464
-
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="BONANZA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-bonanza.png" group-title="Series 24/7",BONANZA 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/91928
-
+http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96692
 #EXTINF:-1 tvg-id="Futurama" tvg-name="ChicagoPD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-chicago-pd.png" group-title="Series 24/7",ChicagoPD 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/106001
-
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA MUJER BIÓNICA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-la-mujer-bionica.png" group-title="Series 24/7",LA MUJER BIÓNICA 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/119342
-
 #EXTINF:-1 tvg-id="Los Magnificos" tvg-name="Los Magnificos" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-los-magnificos.png" group-title="Series 24/7",Los Magnificos 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/119346
-
 #EXTINF:-1 tvg-id="Mi Bella Genio" tvg-name="Mi Bella Genio" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-mi-bella-genio.png" group-title="Series 24/7",Mi Bella Genio 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/119351
-
+http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96696
 #EXTINF:-1 tvg-id="El Auto Fantastico" tvg-name="El Auto Fantastico" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-el-auto-fantastico.png" group-title="Series 24/7",El Auto Fantastico 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/177642
-
+http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96694
 #EXTINF:-1 tvg-id="Macgyver" tvg-name="Macgyver" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-macgyver.png" group-title="Series 24/7",Macgyver 24/7
-https://nxt.plus:8443/jorge4559cab/wau6KMsYgw/177647
-
 #EXTINF:-1 tvg-id="La Familia Ingalls" tvg-name="La Familia Ingalls " tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-la-familia-ingalls.png" group-title="Series 24/7",La Familia Ingalls 24/7
-http://tv.proyectox.vip:8080/hugophalcorp/w2b5hD4uUX/96699
+http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96699
+
 
 
 #EXTINF:-1 tvg-name="Detective Knight: Independencia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1168a2gKGWYSfiCkWtz4oDl5rJP.jpg" group-title="Acción",Detective Knight: Independencia (2023)
