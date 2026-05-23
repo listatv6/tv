@@ -8,6 +8,8 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 http://45.232.210.1:8029/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD
 http://45.232.210.1:8029/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
+http://179.63.6.12:9000/play/a02i
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Chile",CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
@@ -58,7 +60,11 @@ http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
 http://45.232.210.1:8029/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://image.pngaaa.com/596/3362596-middle.png" group-title="Deportes Chile",DIRECTV SPORTS 
+http://179.63.6.12:9000/play/a01k
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://image.pngaaa.com/596/3362596-middle.png" group-title="Deportes Chile",DIRECTV SPORTS 
 http://veltixzone11.b-cdn.net/live/dtvsports1ec/s.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yCh66hv/images.png" group-title="Deportes Chile",Claro SPORTS 
+http://179.63.6.12:9000/play/a02n
 
 
 -----------------------------------CINE------------------------------------------------------------
@@ -107,6 +113,8 @@ http://45.232.210.1:8029/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="https://i.pinimg.com/originals/ae/b8/3c/aeb83cf64500a32d907a4c9db30a91c1.png" group-title="Cine",Sony HD
 http://45.232.210.1:8029/play/a06d/index.m3u8
 -------------------------------------------------INFANTIL---------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",ANI-Retro 
+http://179.63.6.12:9000/play/a06i
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD >2<" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD 
 http://45.232.210.1:8029/play/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",Cartoon Network HD 
