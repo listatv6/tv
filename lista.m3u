@@ -34,14 +34,16 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A
 
 
 -----------------------------------------DEPORTES-------------------------------------------------------------
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Premium 
-#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports (2) HD 
+
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Premium HD 
 http://45.232.210.1:8029/play/cdfhd/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Opc2
+http://38.210.105.10:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile 
 http://45.232.210.1:8029/play/a07k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile >opc 2<
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE >op2<
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE
 http://45.232.210.1:8029/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE 
 http://45.232.210.1:8029/play/a0ax/index.m3u8
@@ -114,7 +116,7 @@ http://45.232.210.1:8029/play/a0ak/index.m3u8
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nick HD >2<" tvg-logo="https://e7.pngegg.com/pngimages/530/716/png-clipart-nickelodeon-logo-nick-jr-nick-play-nick-com-nickelodeon-text-orange.png" group-title="Infantil",Nick HD 
 http://45.232.210.1:8029/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantil",Nick JR >1< HD 
-http://200.113.4.75:7210/play/a025/index.m3u8
+http://38.210.105.10:8000/play/a0h3/index.m3u8
 #EXTINF:-1 tvg-id="Nick JR" tvg-name="Nick HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantil",Nick JR HD 
 #EXTINF:-1 tvg-id="Disney Junior >2<" tvg-name="Disney Junior" tvg-logo="https://c0.klipartz.com/pngpicture/673/844/gratis-png-disney-junior-the-walt-disney-company-canal-de-television-disney-channel-pj-mask.png" group-title="Infantil",Disney Junior 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/04.Logo-Canal-Infantil-Alpha-AOriginal-1024x576.png" group-title="Infantil",Canal infantil 
