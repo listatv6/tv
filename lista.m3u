@@ -55,6 +55,9 @@ http://45.232.210.1:8029/play/a0i9/index.m3u8
 http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
 http://45.232.210.1:8029/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Chile",DIRECTV SPORTS 
+http://veltixzone11.b-cdn.net/live/dtvsports1ec/s.m3u8
+
 
 -----------------------------------CINE------------------------------------------------------------
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal 
