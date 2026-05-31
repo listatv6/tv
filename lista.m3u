@@ -132,6 +132,8 @@ http://45.232.210.1:8029/play/a0k0/index.m3u8
 -----------------------------------------------ENTRETENCION-----------------------------------------------
 #EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health >2< 
 http://45.232.210.1:8029/play/a0al/index.m3u8
+EXTINF:-1 tvg-id="Home&Health" tvg-name="Home&Health >tv.pro<" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Entretención",Home&Health
+http://38.156.13.106:8888/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Entretención",TLC
 http://181.119.203.146:8000/play/a0nj/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >1< 
