@@ -114,7 +114,7 @@ http://45.232.210.1:8029/play/a0ap/index.m3u8
 http://45.232.210.1:8029/play/a06d/index.m3u8
 -------------------------------------------------INFANTIL---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",ANI-Retro 
-http://179.63.6.12:9000/play/a06i
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD >2<" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD 
 http://45.232.210.1:8029/play/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",Cartoon Network HD 
@@ -159,7 +159,7 @@ http://45.232.210.1:8029/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV
 http://45.232.210.1:8029/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV opc2
-http://200.63.107.94:8000/play/a03b/index.m3u8
+http://148.222.230.197:8000/play/a0mi/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >1<
 http://45.232.210.1:8029/play/animalplanethd/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >2<
