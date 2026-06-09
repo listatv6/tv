@@ -68,6 +68,10 @@ http://179.63.6.12:9000/play/a01k
 http://veltixzone11.b-cdn.net/live/dtvsports1ec/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yCh66hv/images.png" group-title="Deportes Chile",Claro SPORTS 
 http://179.63.6.12:9000/play/a02n
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports | Paramount+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 
 -----------------------------------CINE------------------------------------------------------------
