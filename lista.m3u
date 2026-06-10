@@ -63,15 +63,12 @@ http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
 http://45.232.210.1:8029/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://image.pngaaa.com/596/3362596-middle.png" group-title="Deportes Chile",DIRECTV SPORTS 
-http://179.63.6.12:9000/play/a01k
+
 #EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CL (HD) »2«" tvg-logo="https://image.pngaaa.com/596/3362596-middle.png" group-title="Deportes Chile",DIRECTV SPORTS 
 http://veltixzone11.b-cdn.net/live/dtvsports1ec/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yCh66hv/images.png" group-title="Deportes Chile",Claro SPORTS 
-http://179.63.6.12:9000/play/a02n
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports | Paramount+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+
+
 
 
 -----------------------------------CINE------------------------------------------------------------
