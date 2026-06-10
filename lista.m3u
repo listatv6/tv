@@ -4,8 +4,7 @@
 http://45.232.210.1:8029/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD cl" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD >Opc 2<
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD cl" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD >Opc 3<
-http://45.181.121.57:2909/play/065
+
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://megamedia.cl/sites/default/files/2022-11/mega2.png" group-title="Chile",MEGA 2
 http://45.232.210.1:8029/play/a006/index.m3u8
