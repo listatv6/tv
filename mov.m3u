@@ -20,3 +20,17 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={e4f022a08508d006918dd90275feff34:0eb4ccdf0d39c9e5a4a0b596ab5751a9,033307a147a4d35a99109a79b2aa3e8c:a1e51fff110f8784491219998c447ab2,e6042fe46ecd1b2a15c2771a25fbb7ba:8939d00458e7883730cdd60ba0e391f2,0936d915376efcd813ce40428601cc31:c542de1c1fb7e64b48fe72e14b6b6dc4}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES USA 🇺🇸",TELEMUNDO CHICAGO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="TDT 🇪🇸",LA 1 UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a59f97a6d940e8a388c88e957d24fc:a9e6c7adbbf125654827f89df47fe896
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
