@@ -14,34 +14,6 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/4752/image" group-title="",TRT1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={e4f022a08508d006918dd90275feff34:0eb4ccdf0d39c9e5a4a0b596ab5751a9,033307a147a4d35a99109a79b2aa3e8c:a1e51fff110f8784491219998c447ab2,e6042fe46ecd1b2a15c2771a25fbb7ba:8939d00458e7883730cdd60ba0e391f2,0936d915376efcd813ce40428601cc31:c542de1c1fb7e64b48fe72e14b6b6dc4}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/490/1/live.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES USA 🇺🇸",TELEMUNDO CHICAGO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="TDT 🇪🇸",LA 1 UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a59f97a6d940e8a388c88e957d24fc:a9e6c7adbbf125654827f89df47fe896
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
-
-#EXTINF:-1, TNT Sports 1 UK
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36|Referer=https://www.discoveryplus.com/
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 
 #EXTINF:-1 tvg-id="DSports2" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WHORIZONTAL.jpg?size=290x163" group-title="", AR.DSports2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -56,3 +28,11 @@ http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
 http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
+
+
+#EXTINF:-1 group-title="dTV" group-logo="",CHILEVISION_HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cbWSY3Y4sCxA4yoiCNWOOQ","kid":"oA7eNr5GMGGyHLRu0jKIqw""},{"kty":"oct","k":"7LsZ/+9PMVvZ7V8TiZko/g","kid":"3JduFbiDPRK0Lz+fouGrtA"},{"kty":"oct","k":"u3Sly50ulRG+GjXmUPzKZw","kid":"Lc+50Jh8SX+P5CIJQSUWEg"},{"kty":"oct","k":"NeBUXp7PjoobkVQDe3pd0g","kid":"sD0nNxj4Otm3Zq7PSBiYnA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
+https://1040-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1040/1040_CHILEVISION_HD_DASH/manifest.mpd
