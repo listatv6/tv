@@ -30,3 +30,28 @@ http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
 http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
 
 
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
+http://45.232.210.1:8029/play/a08n/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Premium HD 
+http://45.232.210.1:8029/play/cdfhd/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >2<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Opc2
+http://38.210.105.10:8000/play/a0fn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile 
+http://45.232.210.1:8029/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile >opc 2<
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE
+http://45.232.210.1:8029/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE 
+http://45.232.210.1:8029/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE 
+http://45.232.210.1:8029/play/espn3hd/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE 
+http://45.232.210.1:8029/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 5 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 5 CHILE 
+http://45.232.210.1:8029/play/a0i9/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 6 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 6 CHILE 
+http://45.232.210.1:8029/play/foxsports3hd/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
+http://45.232.210.1:8029/play/a0at/index.m3u8
