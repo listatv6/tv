@@ -30,6 +30,19 @@ http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
 http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
 
 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="", fox 4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
 http://45.232.210.1:8029/play/a08n/index.m3u8
 
