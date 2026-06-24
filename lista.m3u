@@ -239,6 +239,51 @@ http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96782
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="SÁBADO GIGANTE" tvg-logo="https://i.ibb.co/q5qFbk8/sabado-gigante1.png" group-title="Series 24/7",SÁBADO GIGANTE 24/7
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="BONANZA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-bonanza.png" group-title="Series 24/7",BONANZA 24/7
 http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96692
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="udptv/daznlaliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="SPORTS",DAZN LA LIGA
+https://box.djdoolky76.net/stream/udptv/daznlaliga/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS",ESPN
+https://box.djdoolky76.net/stream/udptvus/espn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/espnnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png" group-title="SPORTS",ESPN NEWS
+https://box.djdoolky76.net/stream/udptvus/espnnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/espn2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="SPORTS",ESPN2
+https://box.djdoolky76.net/stream/udptvus/espn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/espnu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="SPORTS",ESPNU
+https://box.djdoolky76.net/stream/udptvus/espnu/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/fox4k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="FIFA WORLD CUP",FOX 4K
+https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP",FOX | FIFA FHD
+https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/fox11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-11-kttv-us.png?raw=true" group-title="NEWS",FOX11
+https://box.djdoolky76.net/stream/udptvus/fox11/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/fs1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="FIFA WORLD CUP",FS1
+https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1 tvg-id="udptvus/fs2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="FIFA WORLD CUP",FS2
+https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Futurama" tvg-name="ChicagoPD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-chicago-pd.png" group-title="Series 24/7",ChicagoPD 24/7
 #EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA MUJER BIÓNICA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-la-mujer-bionica.png" group-title="Series 24/7",LA MUJER BIÓNICA 24/7
 #EXTINF:-1 tvg-id="Los Magnificos" tvg-name="Los Magnificos" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-los-magnificos.png" group-title="Series 24/7",Los Magnificos 24/7
