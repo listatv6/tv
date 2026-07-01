@@ -160,7 +160,7 @@ http://45.232.210.1:8029/play/foodnetworkhd/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >2<
 http://45.232.210.1:8029/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV
-http://45.232.210.1:8029/play/a032/index.m3u8
+http://38.7.197.119:4000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="Entretención",HGTV opc2
 http://148.222.230.197:8000/play/a0mi/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD >2fa<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Entretención",Animal Planet >1<
