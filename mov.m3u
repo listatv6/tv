@@ -1,3 +1,4 @@
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports | Paramount+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
@@ -14,36 +15,32 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="DSports2" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WHORIZONTAL.jpg?size=290x163" group-title="", AR.DSports2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
-http://k-fra32.x10.network/Cl_Dash.php?id=1492377&user=teste&pass=teste&r=ok
-
-#EXTINF:-1 tvg-id="DSports1" tvg-logo="http://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/8691/8691WHORIZONTAL.jpg?size=290x163" group-title="", AR.DSports1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kafra25.alwaysdata.net/Testes/Wdvene3.php
-http://k-fra32.x10.network/Cl_Dash.php?id=1491587&user=teste&pass=teste&r=ok
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="", fox 4k
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD
+http://45.232.210.1:8029/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://megamedia.cl/sites/default/files/2022-11/mega2.png" group-title="Chile",MEGA 2
+http://45.232.210.1:8029/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD
+http://45.232.210.1:8029/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
 http://45.232.210.1:8029/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
+http://45.232.210.1:8029/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 2<
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 3<
+#EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >Opc 2<
+http://45.232.210.1:8029/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD
+http://45.232.210.1:8029/play/laredhd/index.m3u8
+#EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/tvmas.png" group-title="Chile",TV+ HD
+http://45.232.210.1:8029/play/a058/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TNT Sports" tvg-name="TNT Sports HD >3<" tvg-logo="https://i.ibb.co/9n3QkNJ/images.png" group-title="Deportes Chile",TNT Sports Premium HD 
 http://45.232.210.1:8029/play/cdfhd/index.m3u8
