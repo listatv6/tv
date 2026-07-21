@@ -6,6 +6,8 @@ http://45.232.210.1:8029/play/a005/index.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://megamedia.cl/sites/default/files/2022-11/mega2.png" group-title="Chile",MEGA 2
 http://45.232.210.1:8029/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mega_Ficci%C3%B3n_logo.png" group-title="Chile",MEGA Ficción
+http://38.7.195.44:8000/play/a0ed
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD
 http://45.232.210.1:8029/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
@@ -32,7 +34,7 @@ http://45.232.210.1:8029/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="TV+" tvg-name="TVMas2" tvg-logo="https://iili.io/KXgAR6u.th.png" group-title="Chile",TVMAS2
 
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
-https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8
+http://38.7.195.44:8000/play/a06s
 
 
 -----------------------------------------DEPORTES-------------------------------------------------------------
@@ -76,7 +78,7 @@ http://190.7.19.197:232/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal >tv.pro<" tvg-logo="https://i.pinimg.com/originals/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="Cine",Studio Universal >Opc 2<
 http://45.232.210.1:8029/play/studiouniversalhd/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime >2<" tvg-logo="https://logowik.com/content/uploads/images/lifetime-tv-new-20202036.jpg" group-title="Cine",Lifetime 
-http://181.205.205.173:8888/play/a0g2/index.m3u8
+http://38.7.195.44:8000/play/a076
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD >2<" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="Cine",HBO HD 
 http://45.232.210.1:8029/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO pop" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png" group-title="Cine",HBO pop
@@ -115,9 +117,14 @@ http://45.232.210.1:8029/play/a06e/index.m3u8
 http://45.232.210.1:8029/play/a0ap/index.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="https://i.pinimg.com/originals/ae/b8/3c/aeb83cf64500a32d907a4c9db30a91c1.png" group-title="Cine",Sony HD
 http://45.232.210.1:8029/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="western" tvg-logo="https://i.ibb.co/jPLQbLtW/images.png" group-title="Cine",Western
+http://38.7.195.44:8000/play/a0bt
+
 -------------------------------------------------INFANTIL---------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",ANI-Retro 
-https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",Animash 
+http://38.7.195.44:8000/play/a0ce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Infantil",ETC TV
+http://207.248.3.81:8081/play/a0tf
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD >2<" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD 
 http://45.232.210.1:8029/play/disneyhd/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD >2<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Infantil",Cartoon Network HD 
@@ -177,99 +184,6 @@ http://45.232.210.1:8029/play/a0e4/index.m3u8
 
 
 
-----------------------------------------------ANIME24/7-----------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://i.blogs.es/c510d0/avatar/840_560.jpg" group-title="Anime 24/7",Avatar La Leyenda de Aang 24/7 
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/95009
-#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://i.blogs.es/c510d0/avatar/840_560.jpg" group-title="Anime 24/7",Avatar La Leyenda de Aang Ch 24/7
-#EXTINF:-1 tvg-id="Avatar La Leyenda de Aang" tvg-name="Avatar La Leyenda de Aang" tvg-logo="https://i.blogs.es/c510d0/avatar/840_560.jpg" group-title="Anime 24/7",La Leyenda de Aang live action 24/7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/52/69/33/526933ed6eb446fc826e54797d347ed0.png" group-title="Anime 24/7",Ataque a los titanes 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94884
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/1c/99/90/1c9990cdbbff7b83ebe4736aade5ddc0.png" group-title="Anime 24/7",Demon Slayer 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ph-live-01.slatic.net/p/e22dd18451d6048a441c59b751b7fd06.png" group-title="Anime 24/7",Jujutsu Kaisen 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94902
-#EXTINF:-1 tvg-id="" tvg-name="Kaiju No. 8" tvg-logo="https://images.seeklogo.com/logo-png/53/1/kaiju-no-8-logo-png_seeklogo-538198.png" group-title="Anime 24/7",Kaiju No.8 24/7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Boruto_Naruto_the_Movie_logo.png" group-title="Anime 24/7",Boruto 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94887
-#EXTINF:-1 tvg-id="BeyBlade" tvg-name="BeyBlade" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/02/Beyblade-Pelicula-Live-action.jpg" group-title="Anime 24/7",BeyBlade 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94886
-#EXTINF:-1 tvg-id="Death Note" tvg-name="Death Note" tvg-logo="https://i.ytimg.com/vi/EfJ0VocuVtk/maxresdefault.jpg" group-title="Anime 24/7",Death Note 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94889
-#EXTINF:-1 tvg-id="Detective Conan" tvg-name="Detective Conan" tvg-logo="https://media.pagina7.cl/2021/02/conan.jpg" group-title="Anime 24/7",Detective Conan 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94892
-#EXTINF:-1 tvg-id="Digimon" tvg-name="Digimon" tvg-logo="https://www.latercera.com/resizer/tm5QLiTEYYqVB0vviyF7isT5VWo=/1200x630/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/DK6HAW6IHJHBPLL55XOADJUJLU.jpg" group-title="Anime 24/7",Digimon 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94891
-#EXTINF:-1 tvg-id="Doraemon" tvg-name="Doraemon" tvg-logo="https://media.revistagq.com/photos/5d1348c16994dc0dc677750c/16:9/w_2560%2Cc_limit/doraemon.jpg" group-title="Anime 24/7",Doraemon 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94893
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-name="Dragon Ball" tvg-logo="https://i.blogs.es/04ac6a/2560_3000/1366_2000.jpeg" group-title="Anime 24/7",Dragon Ball 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94894
-#EXTINF:-1 tvg-id="Dragon Ball GT" tvg-name="Dragon Ball GT" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/BFOGTUK4OJB3JJPKQY7AZ5OAD4.jpg" group-title="Anime 24/7",Dragon Ball GT 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94899
-#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/26079ab060401d8a76039e985d63a3e9.jpg" group-title="Anime 24/7",Dragon Ball Super 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94901
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-name="Dragon Ball-Saga Saiyajin" tvg-logo="https://i.ytimg.com/vi/x1YUuQnxBAw/maxresdefault.jpg" group-title="Anime 24/7",Dragon Ball Z-Saga Saiyajin
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94895
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-name="Dragon Ball-Saga de Freezer " tvg-logo="https://i.ytimg.com/vi/x1YUuQnxBAw/maxresdefault.jpg" group-title="Anime 24/7",Dragon Ball Z-Saga de Freezer
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94896
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-name="Dragon Ball Z-Saga Cell" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20230727171609_690.jpg" group-title="Anime 24/7",Dragon Ball Z-Saga Cell 
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94897
-#EXTINF:-1 tvg-id="Dragon Ball" tvg-name="Dragon Ball Z-Saga Majin Boo" tvg-logo="https://ramenparados.com/wp-content/uploads/2016/11/dragon-ball-kai-saga-majin-boo.jpg" group-title="Anime 24/7",Dragon Ball Z-Saga Majin Boo 
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94898
-#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" tvg-logo="https://fotografias-neox.atresmedia.com/clipping/cmsimages01/2022/03/04/6F3E2E33-8AAF-4607-8B3E-80261F00FB86/naruto_69.jpg?crop=1920,1080,x0,y0&width=1280&height=720&optimize=low&format=jpg" group-title="Anime 24/7",Naruto 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94903
-#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto Shippuden" tvg-logo="https://st1.uvnimg.com/dims4/default/4d72d43/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9b%2F4b%2Fdb8df72a2f3c8d3d87a51b6c0233%2Ffrases-de-naruto.jpg" group-title="Anime 24/7",Naruto Shippuden 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94905
-#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto Shippuden" tvg-logo="https://st1.uvnimg.com/dims4/default/4d72d43/2147483647/thumbnail/400x225/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F9b%2F4b%2Fdb8df72a2f3c8d3d87a51b6c0233%2Ffrases-de-naruto.jpg" group-title="Anime 24/7",Naruto Shippuden (2) 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94904
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/10/One-Piece-Logo.png" group-title="Anime 24/7",One Piece >part1< 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94907
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/10/One-Piece-Logo.png" group-title="Anime 24/7",One Piece >part2< 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94906
-#EXTINF:-1 tvg-id="Super Campeones" tvg-name="Super Campeones" tvg-logo="https://w7.pngwing.com/pngs/230/614/png-transparent-tsubasa-oozora-captain-tsubasa-tatakae-dream-team-anime-television-captain-tsubasa-television-manga-logo-thumbnail.png" group-title="Anime 24/7",Super Campeones 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/94888
-#EXTINF:-1 tvg-id="Slam Dunk" tvg-name="Slam Dunk" tvg-logo="https://e7.pngegg.com/pngimages/1000/313/png-clipart-hanamichi-sakuragi-sakuragi-hanamichi-slam-dunk-basketball-rukawa-kaede-dunk-manga-illustrator-thumbnail.png" group-title="Anime 24/7",Slam Dunk 24/7
--------------------------------------------Series24/7--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Cake Boss" tvg-logo="" group-title="Series 24/7",Los años maravillosos
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96782
-#EXTINF:-1 tvg-id="" tvg-name="Comisario Rex" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc5Y2EyNmEtNThlZS00NTFkLWI0MzktOTUwNTg2NTI2MjRhXkEyXkFqcGc@._V1_.jpg" group-title="Series 24/7",Comisario Rex 24/7
-#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="COMO DICE EL DICHO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-como-dice-el-dicho.png" group-title="Series 24/7",COMO DICE EL DICHO (2) 24/7
-#EXTINF:-1 tvg-id="" tvg-name="Navidad 1" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 1 24/7
-#EXTINF:-1 tvg-id="" tvg-name="Navidad 2" tvg-logo="https://img.freepik.com/vector-gratis/elementos-papa-noel-sobre-fondo-rojo_1057-2152.jpg" group-title="Series 24/7",Navidad 2 24/7
-#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA ROSA DE GUADALUPE" tvg-logo="https://media.pagina7.cl/2020/04/LA-ROSA-DE-GUADALUPE-480X480-730x337.png" group-title="Series 24/7",LA ROSA DE GUADALUPE 24/7
-#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="SÁBADO GIGANTE" tvg-logo="https://i.ibb.co/q5qFbk8/sabado-gigante1.png" group-title="Series 24/7",SÁBADO GIGANTE 24/7
-#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="BONANZA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-bonanza.png" group-title="Series 24/7",BONANZA 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96692
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="udptv/daznlaliga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-laliga-es.png?raw=true" group-title="SPORTS",DAZN LA LIGA
-https://box.djdoolky76.net/stream/udptv/daznlaliga/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/espn" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS",ESPN
-https://box.djdoolky76.net/stream/udptvus/espn/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/espnnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png" group-title="SPORTS",ESPN NEWS
-https://box.djdoolky76.net/stream/udptvus/espnnews/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/espn2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="SPORTS",ESPN2
-https://box.djdoolky76.net/stream/udptvus/espn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/espnu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="SPORTS",ESPNU
-https://box.djdoolky76.net/stream/udptvus/espnu/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/fox4k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="FIFA WORLD CUP",FOX 4K
-https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP",FOX | FIFA FHD
-https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/fox11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-11-kttv-us.png?raw=true" group-title="NEWS",FOX11
-https://box.djdoolky76.net/stream/udptvus/fox11/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/fs1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="FIFA WORLD CUP",FS1
-https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-#EXTINF:-1 tvg-id="udptvus/fs2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="FIFA WORLD CUP",FS2
-https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 
 
@@ -282,15 +196,3 @@ https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3
 
 
 
-
-
-#EXTINF:-1 tvg-id="Futurama" tvg-name="ChicagoPD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-chicago-pd.png" group-title="Series 24/7",ChicagoPD 24/7
-#EXTINF:-1 tvg-id="Alf (e)(SD)" tvg-name="LA MUJER BIÓNICA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-la-mujer-bionica.png" group-title="Series 24/7",LA MUJER BIÓNICA 24/7
-#EXTINF:-1 tvg-id="Los Magnificos" tvg-name="Los Magnificos" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-los-magnificos.png" group-title="Series 24/7",Los Magnificos 24/7
-#EXTINF:-1 tvg-id="Mi Bella Genio" tvg-name="Mi Bella Genio" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-mi-bella-genio.png" group-title="Series 24/7",Mi Bella Genio 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96696
-#EXTINF:-1 tvg-id="El Auto Fantastico" tvg-name="El Auto Fantastico" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-el-auto-fantastico.png" group-title="Series 24/7",El Auto Fantastico 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96694
-#EXTINF:-1 tvg-id="Macgyver" tvg-name="Macgyver" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-macgyver.png" group-title="Series 24/7",Macgyver 24/7
-#EXTINF:-1 tvg-id="La Familia Ingalls" tvg-name="La Familia Ingalls " tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-la-familia-ingalls.png" group-title="Series 24/7",La Familia Ingalls 24/7
-http://tv.proyectox.vip:8080/ROSNAsueci/Fc039fb24795/96699
