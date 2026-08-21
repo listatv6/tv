@@ -161,7 +161,7 @@ http://45.232.210.1:8029/play/a0am/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entretención",Food Network
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entretención",Food Network (2)
-http://45.232.210.1:8029/play/foodnetworkhd/index.m3u8
+http://207.248.3.81:8081/play/a0ta
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >1<
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >2<
