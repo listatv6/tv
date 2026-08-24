@@ -5,6 +5,10 @@
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
+#EXTINF:-1 , Chilevision 🇨🇱
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cirrus.trapemn.tv:11936/Chilevision/video.m3u8
 
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD
