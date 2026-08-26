@@ -33,7 +33,7 @@ http://207.248.3.81:8081/play/a0qc
 http://207.248.3.81:8081/play/a0qk
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/tvmas.png" group-title="Chile",TV+ HD >Opc 2<
 #EXTINF:-1 tvg-id="TV+" tvg-name="TVMas2" tvg-logo="https://iili.io/KXgAR6u.th.png" group-title="Chile",TVMAS2
-
+http://38.7.195.44:8000/play/a0fm
 #EXTINF:-1 tvg-id="Zona Latina" tvg-name="Zona Latina >2<" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zonalatinacl.jpg" group-title="Chile",Zona Latina
 http://38.7.195.44:8000/play/a06s
 
@@ -151,9 +151,9 @@ http://181.119.203.146:8000/play/a0nj/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD >tv.pro<" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Channel >2< 
 
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",El Gourmet HD 
-
+http://38.7.195.44:8000/play/a023
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",El Gourmet HD >2<
-
+http://207.248.3.81:8081/play/a0p6
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >1<
 
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >2< 
