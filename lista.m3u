@@ -66,6 +66,8 @@ http://38.7.195.44:8000/play/a01z
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
 http://207.248.3.81:8081/play/a0nt
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="" group-title="Deportes Chile",Dsports
+http://191.52.214.129:8000/play/a06gx/index.m3u8
 
 
 
