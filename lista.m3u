@@ -9,13 +9,13 @@ http://38.7.195.44:8000/play/a0bm
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mega_Ficci%C3%B3n_logo.png" group-title="Chile",MEGA Ficción
 http://38.7.195.44:8000/play/a0ed
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD
-http://207.248.3.81:8081/play/a0uz
+http://167.249.29.104:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://images.seeklogo.com/logo-png/49/1/chilevision-logo-png_seeklogo-491155.png" group-title="Chile",CHV HD opc2
 http://38.7.195.44:8000/play/a0ev
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="CHV HD >3<" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Chile",CHV Noticias
-http://207.248.3.81:8081/play/a0uy
+
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
-http://207.248.3.81:8081/play/a0ps
+http://38.7.195.44:8000/play/a0et
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 2<
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 3<
@@ -24,13 +24,13 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD
 http://38.7.195.44:8000/play/a0eu
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN HD >2<" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Television-Nacional-de-Chile-Logo-2016.png" group-title="Chile",TVN HD >Opc 2<
-http://207.248.3.81:8081/play/a0qy
+http://167.249.29.104:8000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD
-http://207.248.3.81:8081/play/a0qc
+http://38.7.195.44:8000/play/a0mu
 #EXTINF:-1 tvg-id="La Red" tvg-name="La Red HD >2<" tvg-logo="https://i.ibb.co/CPv2QrY/images.png" group-title="Chile",La Red HD >Opc 2<
 
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/tvmas.png" group-title="Chile",TV+ HD
-http://207.248.3.81:8081/play/a0qk
+http://38.7.195.44:8000/play/a0bj
 #EXTINF:-1 tvg-id="TV+" tvg-name="TV+ HD >3<" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/tvmas.png" group-title="Chile",TV+ HD >Opc 2<
 #EXTINF:-1 tvg-id="TV+" tvg-name="TVMas2" tvg-logo="https://iili.io/KXgAR6u.th.png" group-title="Chile",TVMAS2
 http://38.7.195.44:8000/play/a0fm
@@ -48,23 +48,23 @@ http://38.210.105.10:8000/play/a0fn/index.m3u8
 http://38.7.195.44:8000/play/a0a7
 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile 
-http://207.248.3.81:8081/play/a0ud
+http://38.7.195.44:8000/play/a04g 
 #EXTINF:-1 tvg-id="ESPN " tvg-name="ESPN PREMIUM Chile" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN PREMIUM Chile >opc 2<
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN CHILE
-http://207.248.3.81:8081/play/a0v2
+http://38.7.195.44:8000/play/a02z
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 2 CHILE 
-http://207.248.3.81:8081/play/a0v4
+http://38.7.195.44:8000/play/a01l
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 3 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 3 CHILE 
-http://207.248.3.81:8081/play/a0t8
+http://38.7.195.44:8000/play/a029
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 4 CHILE 
-http://207.248.3.81:8081/play/a0tb
+http://38.7.195.44:8000/play/a06n
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 5 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 5 CHILE 
 http://38.7.195.44:8000/play/a024
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 6 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 6 CHILE 
 http://38.7.195.44:8000/play/a01z
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 7 CHILE HD" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/027/127/453/small_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes Chile",ESPN 7 CHILE 
-http://207.248.3.81:8081/play/a0nt
+http://38.7.195.44:8000/play/a014
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="" tvg-logo="" group-title="Deportes Chile",Dsports
 http://191.52.214.129:8000/play/a06gx/index.m3u8
