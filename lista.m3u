@@ -17,7 +17,7 @@ http://38.7.195.44:8000/play/a0ev
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD
 http://38.7.195.44:8000/play/a0et
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 2<
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13 HD >3<" tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="Chile",Canal 13 HD >Opc 3<
 #EXTINF:-1 tvg-id="13 Cultura" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile",13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -126,6 +126,8 @@ http://38.7.195.44:8000/play/a0bt
 -------------------------------------------------INFANTIL---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",Animash 
 http://38.7.195.44:8000/play/a0ce
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/WNZ35B8j/images.png" group-title="Infantil",Energeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Infantil",ETC TV
 http://201.236.185.134:8000/play/a0ml/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel HD >2<" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/d/i/s/disney-channel.jpg" group-title="Infantil",Disney Channel HD 
@@ -164,7 +166,7 @@ http://201.236.185.134:8000/play/a0n4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entretención",Discovery Turbo
 http://201.236.185.134:8000/play/a0mp/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entretención",Food Network (2)
-http://207.248.3.81:8081/play/a0ta
+http://167.249.29.111:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >1<
 
 #EXTINF:-1 tvg-id="Discovery World >tv.pro<" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery World >2<
