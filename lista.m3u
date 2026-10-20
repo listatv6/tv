@@ -1,7 +1,7 @@
 #EXTM3U 
 -------------------------------------------NACIONALES---------------------------------------------------
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD
-http://207.248.3.81:8081/play/a0qu
+http://38.7.195.44:8000/play/a0ew
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD cl" tvg-logo="https://iili.io/KXr5Nx2.th.png" group-title="Chile",MEGA HD >Opc 2<
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://megamedia.cl/sites/default/files/2022-11/mega2.png" group-title="Chile",MEGA 2
