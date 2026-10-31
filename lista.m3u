@@ -183,9 +183,9 @@ http://38.210.105.10:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",El Gourmet HD 
 http://38.7.195.44:8000/play/a023
 #EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",El Gourmet HD >2<
-#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",El encantador de perros
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="" group-title="Entretención",El encantador de perros
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
-#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/tapa-10.jpg" group-title="Entretención",Hermanos a la obra
+#EXTINF:-1 tvg-id="El Gourmet HD" tvg-name="El Gourmet HD >2<" tvg-logo="" group-title="Entretención",Hermanos a la obra
 https://jmp2.uk/plu-69fcdc73488e575cff213adc.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater HD >tv.pro<" tvg-name="Discovery Theater HD" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretención",Discovery Theater >1<
 
